@@ -1,0 +1,59 @@
+{
+  "data": [
+    {
+      "artist": "恶作剧之吻",
+      "artists": ["恶作剧之吻"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": "484708249",
+      "size": 13318142,
+      "md5": "5d8a49e5fa1e7a7259a665a9a6aa2dce",
+      "name": "Dream Waltz",
+      "ext": "flac",
+      "bitrate": 653
+    },
+    {
+      "artist": "王俞匀",
+      "artists": ["王俞匀"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": "1410842149",
+      "size": 24306643,
+      "md5": "30ee9783cd667fbb31fd3a3e9a819e57",
+      "name": "全世界的人都知道",
+      "ext": "flac",
+      "bitrate": 935
+    },
+    {
+      "artist": "叶庆龙",
+      "artists": ["叶庆龙"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": "1349458498",
+      "size": 24648308,
+      "md5": "3c617d5b4678075e73771cadbd688a2c",
+      "name": "爱情海",
+      "ext": "flac",
+      "bitrate": 847
+    },
+    {
+      "artist": "Lara梁心颐",
+      "artists": ["Lara梁心颐"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": "1386185658",
+      "size": 24337606,
+      "md5": "55fc31ab514dd7851eaaaf7e65f67c6d",
+      "name": "靠近一点点",
+      "ext": "flac",
+      "bitrate": 922
+    },
+    {
+      "artist": "方雅贤",
+      "artists": ["方雅贤"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": "466951473",
+      "size": 26597237,
+      "md5": "0413e4658b96fe1e239ea8c8c2eff013",
+      "name": "听见",
+      "ext": "flac",
+      "bitrate": 871
+    }
+  ]
+}
