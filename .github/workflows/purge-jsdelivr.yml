@@ -24,6 +24,6 @@ jobs:
           for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
             PURGE_URL="https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.sha }}/${file}"
             echo "Purging cache for: $PURGE_URL"
-            curl -X POST $PURGE_URL
+            curl $PURGE_URL
             sleep 1
           done
