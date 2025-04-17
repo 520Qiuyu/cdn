@@ -96,7 +96,18 @@
       "bitrate": 299,
       "match": 362998
     },
-
+    {
+      "artist": "筷子兄弟",
+      "artists": ["筷子兄弟"],
+      "album": "父亲",
+      "id": 362998,
+      "size": 10930562,
+      "md5": "c34e1d485a4b722b564171ca0cb2a6fb",
+      "name": "老男孩",
+      "ext": "flac",
+      "bitrate": 828,
+      "match": 362998
+    },
     {
       "artist": "筷子兄弟",
       "artists": ["筷子兄弟"],
