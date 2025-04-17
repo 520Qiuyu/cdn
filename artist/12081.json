@@ -3,28 +3,6 @@
     {
       "artist": "筷子兄弟",
       "artists": ["筷子兄弟"],
-      "album": "",
-      "id": "2079668956",
-      "size": 2665378,
-      "md5": "1ffe6850299f00d810ca55a8d50f1a47",
-      "name": "老男孩(2011BTV网络春晚)",
-      "ext": "ogg",
-      "bitrate": 77
-    },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
-      "album": "",
-      "id": "2050963667",
-      "size": 8166485,
-      "md5": "9e84611c01bb9195dad75f5e7f6676bb",
-      "name": "小苹果 (网友改编)",
-      "ext": "ogg",
-      "bitrate": 91
-    },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
       "album": "2015江苏卫视新年演唱会",
       "id": 29932432,
       "size": 9544284,
@@ -98,13 +76,13 @@
       "artist": "筷子兄弟",
       "artists": ["筷子兄弟"],
       "album": "父亲",
-      "id": 362998,
+      "id": 2134818324,
       "size": 33201591,
       "md5": "31fc2717ff56969b3bdba46b29838da4",
       "name": "老男孩",
       "ext": "flac",
       "bitrate": 885,
-      "match": 362998
+      "match": 2134818324
     },
     {
       "artist": "筷子兄弟",
@@ -118,84 +96,7 @@
       "bitrate": 299,
       "match": 362998
     },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
-      "album": "歌曲合辑",
-      "id": "2070082627",
-      "size": 2110578,
-      "md5": "bed7d3c42e23417b779cd46515ee373b",
-      "name": "湖",
-      "ext": "ogg",
-      "bitrate": 89
-    },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
-      "album": "歌曲合辑",
-      "id": "2635172808",
-      "size": 2902622,
-      "md5": "48fd632798aac8c2987bef3fb4ea50d3",
-      "name": "记忆中的你",
-      "ext": "ogg",
-      "bitrate": 93
-    },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
-      "album": "歌曲合辑",
-      "id": 362998,
-      "size": 2904000,
-      "md5": "b08d5b315388d01929a9f9ee8a178916",
-      "name": "老男孩",
-      "ext": "ogg",
-      "bitrate": 76,
-      "match": 362998
-    },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
-      "album": "歌曲合辑",
-      "id": "2635182206",
-      "size": 2666681,
-      "md5": "5fd3ac5fef028bd2431e88e833404f32",
-      "name": "老男人",
-      "ext": "ogg",
-      "bitrate": 73
-    },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
-      "album": "歌曲合辑",
-      "id": "2635171804",
-      "size": 1991077,
-      "md5": "d7bfed98d2e4c1a63eb5945b67209769",
-      "name": "流失的青春",
-      "ext": "ogg",
-      "bitrate": 77
-    },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
-      "album": "歌曲合辑",
-      "id": "2635169842",
-      "size": 3825428,
-      "md5": "d3c7af65d78a9c1b44cacf6cec67e471",
-      "name": "小苹果DJ",
-      "ext": "ogg",
-      "bitrate": 83
-    },
-    {
-      "artist": "筷子兄弟",
-      "artists": ["筷子兄弟"],
-      "album": "华语流行现场10",
-      "id": "2666795836",
-      "size": 4385192,
-      "md5": "e2c449551798825a3cee8044979ce60c",
-      "name": "父亲(Live)",
-      "ext": "ogg",
-      "bitrate": 133
-    },
+
     {
       "artist": "筷子兄弟",
       "artists": ["筷子兄弟"],
