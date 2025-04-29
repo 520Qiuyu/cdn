@@ -2,7 +2,7 @@
   "data": [
     {
       "artist": "Johnta Austin",
-      "artists": "Johnta Austin",
+      "artists": ["Johnta Austin"],
       "album": "",
       "id": 1305990326,
       "size": 10325748,
