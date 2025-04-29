@@ -2,7 +2,7 @@
   "data": [
     {
       "artist": "红花会PG ONE",
-      "artists": "红花会PG ONE",
+      "artists": ["红花会PG ONE"],
       "album": "温情Wq77key",
       "id": 2639967775,
       "size": 7419086,
@@ -13,7 +13,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639963022,
       "size": 2991843,
@@ -24,7 +24,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639967908,
       "size": 1459969,
@@ -35,7 +35,7 @@
     },
     {
       "artist": "PGone",
-      "artists": "PGone",
+      "artists": ["PGone"],
       "album": "温情Wq77key",
       "id": 2639967859,
       "size": 2488238,
@@ -46,7 +46,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639972310,
       "size": 710881,
@@ -57,7 +57,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639968177,
       "size": 4468137,
@@ -68,7 +68,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639971400,
       "size": 8169676,
@@ -79,7 +79,7 @@
     },
     {
       "artist": "Makai, 小贝, PG One",
-      "artists": "Makai, 小贝, PG One",
+      "artists": ["Makai", "小贝", "PG One"],
       "album": "温情Wq77key",
       "id": 2639962172,
       "size": 4618568,
@@ -101,7 +101,7 @@
     },
     {
       "artist": "满舒克/PG One",
-      "artists": "满舒克/PG One",
+      "artists": ["满舒克", "PG One"],
       "album": "温情Wq77key",
       "id": 2639968690,
       "size": 5037791,
@@ -112,7 +112,7 @@
     },
     {
       "artist": "PGone",
-      "artists": "PGone",
+      "artists": ["PGone"],
       "album": "温情Wq77key",
       "id": 2639966727,
       "size": 4312609,
@@ -123,7 +123,7 @@
     },
     {
       "artist": "Mriko、Kim23、PG one",
-      "artists": "Mriko、Kim23、PG one",
+      "artists": ["Mriko", "Kim23", "PG one"],
       "album": "温情Wq77key",
       "id": 2639967642,
       "size": 2310062,
@@ -134,7 +134,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639967652,
       "size": 7419086,
@@ -145,7 +145,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639962629,
       "size": 3292153,
@@ -156,7 +156,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639957896,
       "size": 7559726,
@@ -167,7 +167,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639962645,
       "size": 12004373,
@@ -178,7 +178,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639948138,
       "size": 4350317,
@@ -189,7 +189,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639965628,
       "size": 7562986,
@@ -200,7 +200,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639960682,
       "size": 2785471,
@@ -211,7 +211,7 @@
     },
     {
       "artist": "PGone",
-      "artists": "PGone",
+      "artists": ["PGone"],
       "album": "温情Wq77key",
       "id": 2639965652,
       "size": 1482345,
@@ -222,7 +222,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639952862,
       "size": 7444910,
@@ -233,7 +233,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639966696,
       "size": 9711984,
@@ -244,7 +244,7 @@
     },
     {
       "artist": "PGone",
-      "artists": "PGone",
+      "artists": ["PGone"],
       "album": "温情Wq77key",
       "id": 2639960308,
       "size": 2883067,
@@ -255,7 +255,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639968413,
       "size": 2368046,
@@ -266,7 +266,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639965252,
       "size": 8075878,
@@ -277,7 +277,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639971380,
       "size": 22164455,
@@ -288,7 +288,7 @@
     },
     {
       "artist": "PGone",
-      "artists": "PGone",
+      "artists": ["PGone"],
       "album": "温情Wq77key",
       "id": 2639968701,
       "size": 9266355,
@@ -299,7 +299,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639965584,
       "size": 22827175,
@@ -310,7 +310,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639957718,
       "size": 1222574,
@@ -321,7 +321,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639963705,
       "size": 7740881,
@@ -332,7 +332,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639966711,
       "size": 7562461,
@@ -343,7 +343,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639972430,
       "size": 6597514,
@@ -365,7 +365,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639967712,
       "size": 3014902,
@@ -376,7 +376,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639962782,
       "size": 3108266,
@@ -387,7 +387,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639960834,
       "size": 9971524,
@@ -398,7 +398,7 @@
     },
     {
       "artist": "PG One/弹壳",
-      "artists": "PG One/弹壳",
+      "artists": ["PG One", "弹壳"],
       "album": "温情Wq77key",
       "id": 2639966674,
       "size": 8009912,
@@ -420,7 +420,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639952776,
       "size": 4988150,
@@ -431,7 +431,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639957947,
       "size": 2537908,
@@ -453,7 +453,7 @@
     },
     {
       "artist": "PG one/MAI",
-      "artists": "PG one/MAI",
+      "artists": ["PG one", "MAI"],
       "album": "温情Wq77key",
       "id": 2639966243,
       "size": 1406894,
@@ -475,7 +475,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639971347,
       "size": 11629050,
@@ -486,7 +486,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639946107,
       "size": 8538941,
@@ -497,7 +497,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639962614,
       "size": 6745102,
@@ -508,7 +508,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639962672,
       "size": 7166706,
@@ -530,7 +530,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639971275,
       "size": 9333165,
@@ -563,7 +563,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639948112,
       "size": 14006340,
@@ -574,7 +574,7 @@
     },
     {
       "artist": "红花会贝贝&PGone",
-      "artists": "红花会贝贝&PGone",
+      "artists": ["红花会贝贝", "PGone"],
       "album": "温情Wq77key",
       "id": 2639968678,
       "size": 7391201,
@@ -607,7 +607,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639968581,
       "size": 2974330,
@@ -618,7 +618,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639957956,
       "size": 3991945,
@@ -629,7 +629,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639963352,
       "size": 17975807,
@@ -640,7 +640,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639960647,
       "size": 2788298,
@@ -651,7 +651,7 @@
     },
     {
       "artist": "PG One/王大痣(Big Tattoo)&恼禅",
-      "artists": "PG One/王大痣(Big Tattoo)&恼禅",
+      "artists": ["PG One", "王大痣(Big Tattoo)", "恼禅"],
       "album": "温情Wq77key",
       "id": 2639957722,
       "size": 4761380,
@@ -662,7 +662,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639957652,
       "size": 2461454,
@@ -673,7 +673,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639952905,
       "size": 2785963,
@@ -684,7 +684,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639952977,
       "size": 20134565,
@@ -695,7 +695,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639963821,
       "size": 2793899,
@@ -717,7 +717,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639946065,
       "size": 2488622,
@@ -728,7 +728,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639947971,
       "size": 1485785,
@@ -739,7 +739,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639951747,
       "size": 17160067,
@@ -750,7 +750,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639946035,
       "size": 2310446,
@@ -761,7 +761,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639951785,
       "size": 1222958,
@@ -772,7 +772,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639951740,
       "size": 19214850,
@@ -783,7 +783,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639952728,
       "size": 1010990,
@@ -805,7 +805,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639946075,
       "size": 2553829,
@@ -816,7 +816,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639941121,
       "size": 2222772,
@@ -827,7 +827,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639949029,
       "size": 2408582,
@@ -838,7 +838,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639942142,
       "size": 1611799,
@@ -849,7 +849,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639952727,
       "size": 40816156,
@@ -860,7 +860,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639952754,
       "size": 7205763,
@@ -871,7 +871,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639946030,
       "size": 3285359,
@@ -882,7 +882,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639943153,
       "size": 6948918,
@@ -893,7 +893,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639943085,
       "size": 2409617,
@@ -904,7 +904,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639948022,
       "size": 8298709,
@@ -926,7 +926,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639951722,
       "size": 1911155,
@@ -948,7 +948,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639942058,
       "size": 2368046,
@@ -959,7 +959,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639941039,
       "size": 2969411,
@@ -970,7 +970,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639945981,
       "size": 1996728,
@@ -992,7 +992,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639948971,
       "size": 726743,
@@ -1003,7 +1003,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639945968,
       "size": 3105227,
@@ -1025,7 +1025,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639951635,
       "size": 765957,
@@ -1036,7 +1036,7 @@
     },
     {
       "artist": "贝利 AceLee ZI PG one L825 S1",
-      "artists": "贝利 AceLee ZI PG one L825 S1",
+      "artists": ["贝利", "AceLee", "ZI", "PG one", "L825", "S1"],
       "album": "温情Wq77key",
       "id": 2639940984,
       "size": 9968332,
@@ -1047,7 +1047,7 @@
     },
     {
       "artist": "PGone",
-      "artists": "PGone",
+      "artists": ["PGone"],
       "album": "温情Wq77key",
       "id": 2639951605,
       "size": 1010606,
@@ -1069,7 +1069,7 @@
     },
     {
       "artist": "红花会/刘昱妤Lexie/PGONE/mai/啊之",
-      "artists": "红花会/刘昱妤Lexie/PGONE/mai/啊之",
+      "artists": ["红花会", "刘昱妤Lexie", "PGONE", "mai", "啊之"],
       "album": "温情Wq77key",
       "id": 2639940945,
       "size": 12004717,
@@ -1080,7 +1080,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639942960,
       "size": 8911583,
@@ -1124,7 +1124,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639952496,
       "size": 7328971,
@@ -1135,7 +1135,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639942912,
       "size": 24114533,
@@ -1223,7 +1223,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "温情Wq77key",
       "id": 2639938066,
       "size": 6962746,
@@ -1267,7 +1267,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639945768,
       "size": 3007275,
@@ -1289,7 +1289,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "温情Wq77key",
       "id": 2639940807,
       "size": 4105772,
@@ -1311,7 +1311,7 @@
     },
     {
       "artist": "满舒克/PG One",
-      "artists": "满舒克/PG One",
+      "artists": ["满舒克", "PG One"],
       "album": "温情Wq77key",
       "id": 2639947633,
       "size": 8254738,
@@ -1421,7 +1421,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2639948641,
       "size": 4652586,
@@ -1465,7 +1465,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "温情Wq77key",
       "id": 2638926894,
       "size": 9562416,
@@ -1487,7 +1487,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "中文老说唱",
       "id": 1812733229,
       "size": 9711984,
@@ -1498,7 +1498,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "中文老说唱",
       "id": 1818381756,
       "size": 6597514,
@@ -1509,7 +1509,7 @@
     },
     {
       "artist": "PGONE",
-      "artists": "PGONE",
+      "artists": ["PGONE"],
       "album": "中文老说唱",
       "id": 1813883072,
       "size": 1611799,
@@ -1520,7 +1520,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "中文老说唱",
       "id": 1812730330,
       "size": 40816156,
@@ -1531,7 +1531,7 @@
     },
     {
       "artist": "PG One",
-      "artists": "PG One",
+      "artists": ["PG One"],
       "album": "中文老说唱",
       "id": 1813877528,
       "size": 3285359,
@@ -1553,7 +1553,7 @@
     },
     {
       "artist": "PG one",
-      "artists": "PG one",
+      "artists": ["PG one"],
       "album": "PG one",
       "id": 2639968823,
       "size": 23424283,
@@ -1564,7 +1564,7 @@
     },
     {
       "artist": "王唯楚PG ONE",
-      "artists": "王唯楚PG ONE",
+      "artists": ["王唯楚PG ONE"],
       "album": "",
       "id": 2067410333,
       "size": 6328908,
