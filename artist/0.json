@@ -1,15 +1,15 @@
 {
   "data": [
     {
-      "artist": "汽水",
-      "artists": ["汽水"],
+      "artist": "陈雪凝",
+      "artists": ["陈雪凝"],
       "album": "白山茶",
-      "id": 477840443,
-      "size": 10186925,
-      "md5": "984112297084b269d725aa1acb1db1f4",
+      "id": 1496375056,
+      "size": 28684545,
+      "md5": "78725f4092fc0a63eeea80d36a89b606",
       "name": "白山茶",
-      "ext": "mp3",
-      "bitrate": 321
+      "ext": "flac",
+      "bitrate": 902
     },
     {
       "artist": "Johnta Austin",
