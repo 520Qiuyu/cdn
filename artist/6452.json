@@ -3037,6 +3037,28 @@
       "ext": "flac",
       "bitrate": 1623,
       "md5": "ac6048c8503e1865c5fe543d71647f5f"
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "稻香 (Remix摇滚版)",
+      "id": 241205548,
+      "size": 33672726,
+      "md5": "c07d208bc1e4e53b9331671841faf5b1",
+      "name": "稻香",
+      "ext": "flac",
+      "bitrate": 1884
+    },
+    {
+      "artist": "华语群星",
+      "artists": ["华语群星", "周杰伦"],
+      "album": "Six Degrees",
+      "id": 259316984,
+      "size": 43414424,
+      "md5": "dcb65cfcc8007c4f6505af5d1b795e43",
+      "name": "Six Degrees",
+      "ext": "flac",
+      "bitrate": 1783
     }
   ]
 }
