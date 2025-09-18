@@ -3872,6 +3872,117 @@
       "name": "不该 (with aMEI)",
       "ext": "flac",
       "bitrate": 1740
+    },
+
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747502080,
+      "size": 45288920,
+      "md5": "7af94b9e7da3d80d1496f73ad09e2f41",
+      "name": "最后的战役",
+      "ext": " 最后的战役",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747507768,
+      "size": 43411136,
+      "md5": "02b184b8c3fd50af48580fa242fde155",
+      "name": "爷爷泡的茶",
+      "ext": " 爷爷泡的茶",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747501050,
+      "size": 43426484,
+      "md5": "84ad198479813d564b34a8d27000abe4",
+      "name": "米兰的小铁匠",
+      "ext": " 米兰的小铁匠",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747516214,
+      "size": 49419704,
+      "md5": "e5ed0e50aa5d61c1982dc60aa5d22a9c",
+      "name": "龙拳",
+      "ext": " 龙拳",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747502065,
+      "size": 49671788,
+      "md5": "6444f5a34f9c79a0d6d4faa7e9d6ecd0",
+      "name": "火车叨位去",
+      "ext": " 火车叨位去",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747500121,
+      "size": 42168572,
+      "md5": "2839e814c5a55ce9eb0adb8cd25bc664",
+      "name": "回到过去",
+      "ext": " 回到过去",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747516206,
+      "size": 45900406,
+      "md5": "9de9096c4e6d3c89ac5660f321509dd2",
+      "name": "分裂",
+      "ext": " 分裂",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747501028,
+      "size": 44626284,
+      "md5": "f835807afe6f49df0f5c14f14dc3a8cb",
+      "name": "半兽人",
+      "ext": " 半兽人",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747507727,
+      "size": 57328048,
+      "md5": "1b548374464381b594f5080e51ab532f",
+      "name": "半岛铁盒",
+      "ext": " 半岛铁盒",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "八度空间",
+      "id": 2747508479,
+      "size": 48923232,
+      "md5": "bd310e7e02db49d2713586e3aea4ca9a",
+      "name": "暗号",
+      "ext": " 暗号",
+      "bitrate": 1411
     }
   ]
 }
