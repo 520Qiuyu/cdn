@@ -864,7 +864,7 @@
     {
       "artist": "周杰伦",
       "artists": ["周杰伦"],
-      "album": "J III wav Player",
+      "album": "J III MP3 Player",
       "id": 2747263219,
       "size": 12309050,
       "md5": "1aa8569fdfde9c87911bc46e27a61c2f",
@@ -875,7 +875,7 @@
     {
       "artist": "周杰伦",
       "artists": ["周杰伦"],
-      "album": "J III wav Player",
+      "album": "J III MP3 Player",
       "id": 2747277571,
       "size": 12488354,
       "md5": "4293ef98fbfe5ab37557d04a6c293771",
@@ -886,7 +886,7 @@
     {
       "artist": "周杰伦",
       "artists": ["周杰伦"],
-      "album": "J III wav Player",
+      "album": "J III MP3 Player",
       "id": 2747298335,
       "size": 21705336,
       "md5": "857597e5a77d9dde7695cdc256cf7ed9",
@@ -897,7 +897,7 @@
     {
       "artist": "周杰伦",
       "artists": ["周杰伦"],
-      "album": "J III wav Player",
+      "album": "J III MP3 Player",
       "id": 2747295138,
       "size": 10369106,
       "md5": "c95b5e27530cb2d4067cd08e50e88845",
@@ -908,7 +908,7 @@
     {
       "artist": "周杰伦",
       "artists": ["周杰伦"],
-      "album": "J III wav Player",
+      "album": "J III MP3 Player",
       "id": 2747326743,
       "size": 52293384,
       "md5": "2e6336291ee0bc9d0727061468860993",
@@ -3982,6 +3982,73 @@
       "md5": "bd310e7e02db49d2713586e3aea4ca9a",
       "name": "暗号",
       "ext": " 暗号",
+      "bitrate": 1411
+    },
+
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "天台 电影原声带",
+      "id": 2747522725,
+      "size": 13973668,
+      "md5": "20d157ea95f72ba995243061e9b0c18c",
+      "name": "无助",
+      "ext": " 无助",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "天台 电影原声带",
+      "id": 2747522724,
+      "size": 50850482,
+      "md5": "d44f76a0467cc8bcf079809659c0bf72",
+      "name": "哪里都是你",
+      "ext": " 哪里都是你",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "天台 电影原声带",
+      "id": 2747513959,
+      "size": 30723662,
+      "md5": "29f35e6c42b6cf49874e51be6f505f65",
+      "name": "狗仔舞",
+      "ext": " 狗仔舞",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "天台 电影原声带",
+      "id": 2747516868,
+      "size": 11379454,
+      "md5": "dc79f7bfff1e3d1e012850f24af4cc02",
+      "name": "竹竿舞",
+      "ext": " 竹竿舞",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "天台 电影原声带",
+      "id": 2747523622,
+      "size": 29145254,
+      "md5": "936c90ee477f5ae17d6c8f4322aa5641",
+      "name": "天台的月光",
+      "ext": " 天台的月光",
+      "bitrate": 1411
+    },
+    {
+      "artist": "周杰伦/柯有伦/于冠华/宋健彰/蔡朝华/罗文裕",
+      "artists": ["周杰伦/柯有伦/于冠华/宋健彰/蔡朝华/罗文裕"],
+      "album": "天台 电影原声带",
+      "id": 2747517851,
+      "size": 17242972,
+      "md5": "9824893396539ddf2dca6b702f7c8065",
+      "name": "大明星",
+      "ext": " 大明星",
       "bitrate": 1411
     }
   ]
