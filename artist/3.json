@@ -433,12 +433,12 @@
       "artist": "周杰伦",
       "artists": ["周杰伦"],
       "album": "七里香",
-      "id": 2719860220,
-      "size": 30502824,
-      "md5": "54c7a4a4afb6f5490b83d10c3cca95f3",
-      "name": "止战之殇",
-      "ext": "flac",
-      "bitrate": 875
+      "id": 2743993895,
+      "size": 52994292,
+      "md5": "fe76009298feb96609ea4f7a505aae57",
+      "name": "七里香",
+      "ext": "wav",
+      "bitrate": 1412
     },
     {
       "artist": "周杰伦",
@@ -3640,6 +3640,17 @@
       "name": "你是我的OK绷",
       "ext": "flac",
       "bitrate": 919
+    },
+    {
+      "artist": "周杰伦",
+      "artists": ["周杰伦"],
+      "album": "幻城 电视剧原声带",
+      "id": 2743868301,
+      "size": 63528043,
+      "md5": "217dc9d8deec346b5bf4764dbe382068",
+      "name": "不该 (with aMEI)",
+      "ext": "flac",
+      "bitrate": 1740
     }
   ]
 }
