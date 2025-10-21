@@ -1,0 +1,30 @@
+# 输出文件
+output/*
+!output/.gitkeep
+
+# 备份文件
+*.backup.*.json
+
+# 临时文件
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+
+# Node modules (如果后续添加依赖)
+node_modules/
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE配置
+.vscode/
+.idea/
+
+# 用户自定义配置（非示例配置）
+config/*.json
+!config/*.example.json
+

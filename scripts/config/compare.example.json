@@ -1,0 +1,8 @@
+{
+  "file1": "d:/Download/stolenList (28).json",
+  "file2": "d:/Download/stolenList (29).json",
+  "outputPath": "./scripts/output/comparison-report.txt",
+  "writeToFile": true,
+  "showInConsole": true
+}
+
