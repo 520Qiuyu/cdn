@@ -2,9 +2,7 @@
   "data": [
     {
       "artist": "陈雪凝",
-      "artists": [
-        "陈雪凝"
-      ],
+      "artists": ["陈雪凝"],
       "album": "白山茶",
       "id": 2748443354,
       "size": 30005953,
@@ -15,9 +13,7 @@
     },
     {
       "artist": "陈壹千",
-      "artists": [
-        "陈壹千"
-      ],
+      "artists": ["陈壹千"],
       "album": "其实，我就在你方圆几里",
       "id": 437387277,
       "size": 18940653,
@@ -28,9 +24,7 @@
     },
     {
       "artist": "魏如昀",
-      "artists": [
-        "魏如昀"
-      ],
+      "artists": ["魏如昀"],
       "album": "听见下雨的声音 电影原声带",
       "id": 2056912418,
       "size": 58280020,
@@ -41,9 +35,7 @@
     },
     {
       "artist": "陈芳语",
-      "artists": [
-        "陈芳语"
-      ],
+      "artists": ["陈芳语"],
       "album": "Kimberley 首张同名专辑",
       "id": 2653098555,
       "size": 22938236,
@@ -54,9 +46,7 @@
     },
     {
       "artist": "Johnta Austin",
-      "artists": [
-        "Johnta Austin"
-      ],
+      "artists": ["Johnta Austin"],
       "album": "",
       "id": 1305990326,
       "size": 10325748,
@@ -64,6 +54,17 @@
       "name": "Call You Tonight",
       "ext": "mp3",
       "bitrate": 321
+    },
+    {
+      "artist": "艾比利、曾沛慈",
+      "artists": ["艾比利", "曾沛慈"],
+      "album": "一个人想着一个人(说唱版)",
+      "id": 2758848476,
+      "size": 18123799,
+      "md5": "ab3363273b6f9dcd4accde39a8b28860",
+      "name": "一个人想着一个人(说唱版)",
+      "ext": "download",
+      "bitrate": 773
     },
     {
       "id": 28018075,
