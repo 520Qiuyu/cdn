@@ -107,6 +107,13 @@
     "sizeDesc": "15.33G"
   },
   {
+    "id":"wuyifan",
+    "name":"吴亦凡",
+    "count":65,
+    "size":3655700000,
+    "sizeDesc":"3.55G"
+  },
+  {
     "id": 5781,
     "name": "薛之谦",
     "rank": {
