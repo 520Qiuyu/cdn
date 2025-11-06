@@ -96,6 +96,13 @@
     "sizeDesc": "12.79G"
   },
   {
+    "id": 46974963,
+    "name": "梓渝",
+    "count": 20,
+    "size": 712962624,
+    "sizeDesc": "679.84MB"
+  },
+  {
     "id": 6452,
     "name": "周杰伦",
     "rank": {
@@ -107,11 +114,11 @@
     "sizeDesc": "15.33G"
   },
   {
-    "id":"wuyifan",
-    "name":"吴亦凡",
-    "count":65,
-    "size":3655700000,
-    "sizeDesc":"3.55G"
+    "id": "wuyifan",
+    "name": "吴亦凡",
+    "count": 65,
+    "size": 3655700000,
+    "sizeDesc": "3.55G"
   },
   {
     "id": 5781,
