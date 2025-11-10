@@ -211,17 +211,7 @@
       "bitrate": 986,
       "match": 150332
     },
-    {
-      "artist": "Tank",
-      "artists": ["Tank"],
-      "album": "我不伟大，至少我能改变我。",
-      "id": "2616937242",
-      "size": 41253216,
-      "md5": "75e833823a7a009c814ada323a8aa6ff",
-      "name": "07 不凋花 Mastered V2 48kHz 24bit",
-      "ext": "flac",
-      "bitrate": 1682
-    },
+
     {
       "artist": "Tank",
       "artists": ["Tank"],
@@ -569,17 +559,7 @@
       "bitrate": 897,
       "match": 4872708
     },
-    {
-      "artist": "Tank",
-      "artists": ["Tank"],
-      "album": "我不伟大，至少我能改变我。",
-      "id": "2616938314",
-      "size": 41093836,
-      "md5": "fcd29d5a19d14ff9e05ad8163c2586a6",
-      "name": "05 繞遠路的目的地 Mastered V2 48kHz 24bit",
-      "ext": "flac",
-      "bitrate": 1724
-    },
+
     {
       "artist": "Tank",
       "artists": ["Tank"],
@@ -676,39 +656,7 @@
       "bitrate": 915,
       "match": 150359
     },
-    {
-      "artist": "Tank",
-      "artists": ["Tank"],
-      "album": "我不伟大，至少我能改变我。",
-      "id": "2616932576",
-      "size": 42190983,
-      "md5": "94bd0e268846d3a8d588365a8263d820",
-      "name": "04 坦诚不见 Mastered V2 48kHz 24bit",
-      "ext": "flac",
-      "bitrate": 1630
-    },
-    {
-      "artist": "Tank",
-      "artists": ["Tank"],
-      "album": "我不伟大，至少我能改变我。",
-      "id": "2619241402",
-      "size": 43215407,
-      "md5": "e842b1a753f54bc324291f14927c013a",
-      "name": "03 唐吉訶德 Mastered V2 48kHz 24bit",
-      "ext": "flac",
-      "bitrate": 1704
-    },
-    {
-      "artist": "Tank",
-      "artists": ["Tank"],
-      "album": "我不伟大，至少我能改变我。",
-      "id": "2616933390",
-      "size": 38020861,
-      "md5": "03f13bfdf0149f6ebdb3ae9212a5845d",
-      "name": "10 天空蓝 Mastered V2 48kHz 24bit",
-      "ext": "flac",
-      "bitrate": 1763
-    },
+
     {
       "artist": "Tank",
       "artists": ["Tank"],
@@ -721,17 +669,7 @@
       "bitrate": 1010,
       "match": 150364
     },
-    {
-      "artist": "Tank",
-      "artists": ["Tank"],
-      "album": "我不伟大，至少我能改变我。",
-      "id": "2616744301",
-      "size": 51276452,
-      "md5": "cb74e3d5d1f93fffe0e361ebc7526650",
-      "name": "09 我不偉大 Mastered V2 48kHz 24bit",
-      "ext": "flac",
-      "bitrate": 1730
-    },
+
     {
       "artist": "Tank",
       "artists": ["Tank"],
@@ -804,17 +742,7 @@
       "bitrate": 938,
       "match": 150339
     },
-    {
-      "artist": "Tank",
-      "artists": ["Tank"],
-      "album": "我不伟大，至少我能改变我。",
-      "id": "2616931576",
-      "size": 43310187,
-      "md5": "77323dfdfd6a24641d6e340f8f88a3f6",
-      "name": "08 一念人間 Mastered V2 48kHz 24bit",
-      "ext": "flac",
-      "bitrate": 1729
-    },
+
     {
       "artist": "Tank",
       "artists": ["Tank"],
@@ -898,17 +826,7 @@
       "bitrate": 941,
       "match": 4874368
     },
-    {
-      "artist": "Tank",
-      "artists": ["Tank"],
-      "album": "我不伟大，至少我能改变我。",
-      "id": "2616930625",
-      "size": 53532766,
-      "md5": "4edfc3b69cc864d5e4df6a84fb067b39",
-      "name": "06 走!我們一起去看海 Mastered V2 48kHz 24bit",
-      "ext": "flac",
-      "bitrate": 1713
-    },
+
     {
       "artist": "Tank",
       "artists": ["Tank"],
@@ -920,6 +838,105 @@
       "ext": "flac",
       "bitrate": 981,
       "match": 150351
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我不伟大，至少我能改变我。",
+      "id": 2619419654,
+      "size": 51276452,
+      "md5": "cb74e3d5d1f93fffe0e361ebc7526650",
+      "name": "09 我不偉大 Mastered V2 48kHz 24bit",
+      "ext": "mp3",
+      "bitrate": 1730
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我不伟大，至少我能改变我。",
+      "id": 2619419655,
+      "size": 38020861,
+      "md5": "03f13bfdf0149f6ebdb3ae9212a5845d",
+      "name": "10 天空蓝 Mastered V2 48kHz 24bit",
+      "ext": "mp3",
+      "bitrate": 1763
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我不伟大，至少我能改变我。",
+      "id": 2619419652,
+      "size": 43215407,
+      "md5": "e842b1a753f54bc324291f14927c013a",
+      "name": "03 唐吉訶德 Mastered V2 48kHz 24bit",
+      "ext": "mp3",
+      "bitrate": 1704
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我不伟大，至少我能改变我。",
+      "id": 2619418071,
+      "size": 42190983,
+      "md5": "94bd0e268846d3a8d588365a8263d820",
+      "name": "04 坦诚不见 Mastered V2 48kHz 24bit",
+      "ext": "mp3",
+      "bitrate": 1630
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我不伟大，至少我能改变我。",
+      "id": 2619419653,
+      "size": 41093836,
+      "md5": "fcd29d5a19d14ff9e05ad8163c2586a6",
+      "name": "05 繞遠路的目的地 Mastered V2 48kHz 24bit",
+      "ext": "mp3",
+      "bitrate": 1724
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我不伟大，至少我能改变我。",
+      "id": 2619418073,
+      "size": 41253216,
+      "md5": "75e833823a7a009c814ada323a8aa6ff",
+      "name": "07 不凋花 Mastered V2 48kHz 24bit",
+      "ext": "mp3",
+      "bitrate": 1682
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我的名字在你手里",
+      "id": 2619418070,
+      "size": 45213379,
+      "md5": "a0bc84ae0618da51597c1e70a2671f0d",
+      "name": "我的名字在你手里",
+      "ext": "flac",
+      "bitrate": 1715
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我不伟大，至少我能改变我。",
+      "id": 2619418072,
+      "size": 53532766,
+      "md5": "4edfc3b69cc864d5e4df6a84fb067b39",
+      "name": "06 走!我們一起去看海 Mastered V2 48kHz 24bit",
+      "ext": "mp3",
+      "bitrate": 1713
+    },
+    {
+      "artist": "Tank",
+      "artists": ["Tank"],
+      "album": "我不伟大，至少我能改变我。",
+      "id": 2619418074,
+      "size": 43310187,
+      "md5": "77323dfdfd6a24641d6e340f8f88a3f6",
+      "name": "08 一念人間 Mastered V2 48kHz 24bit",
+      "ext": "mp3",
+      "bitrate": 1729
     }
   ]
 }
