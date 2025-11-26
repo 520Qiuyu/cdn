@@ -3077,8 +3077,8 @@
       "id": 2617916651,
       "size": 58621543,
       "md5": "70e15f6a28fc40812d67599d38a139f3",
-      "name": "03 ⽩",
-      "ext": "mp3",
+      "name": "⽩",
+      "ext": "flac",
       "bitrate": 1621
     },
     {
@@ -3090,8 +3090,8 @@
       "id": 2617916648,
       "size": 53344960,
       "md5": "1f6c2d21a389f654e43bb7c7a8d6f7c4",
-      "name": "02 懲罰",
-      "ext": "mp3",
+      "name": "惩罚",
+      "ext": "flac",
       "bitrate": 1717
     },
     {
@@ -3103,8 +3103,8 @@
       "id": 2617917461,
       "size": 57553381,
       "md5": "2457a6f49678d977c58fd203393b4ed7",
-      "name": "04 我不是神 , 我只是平凡卻直拗愛著你的⼈",
-      "ext": "mp3",
+      "name": "我不是神 , 我只是平凡卻直拗愛著你的⼈",
+      "ext": "flac",
       "bitrate": 1544
     },
     {
@@ -3116,8 +3116,8 @@
       "id": 2617916652,
       "size": 44068676,
       "md5": "e76055d7d0a7e80e862654e9b716c302",
-      "name": "05 完 ,",
-      "ext": "mp3",
+      "name": "完 ,",
+      "ext": "flac",
       "bitrate": 1438
     },
     {
@@ -3129,8 +3129,8 @@
       "id": 2617916645,
       "size": 8095563,
       "md5": "250533277087d89441ecc6d9f0f05516",
-      "name": "01 Do I Still Loathe You 恨裡受罪",
-      "ext": "mp3",
+      "name": "Do I Still Loathe You 恨裡受罪",
+      "ext": "flac",
       "bitrate": 1024
     },
     {
@@ -3142,8 +3142,8 @@
       "id": 2617916653,
       "size": 35646305,
       "md5": "31ffe0b2cb3f4d0d04ef4538729a0272",
-      "name": "06 瑪莉晚安了 (林家謙分擔合唱曲)",
-      "ext": "mp3",
+      "name": "玛莉晚安了",
+      "ext": "flac",
       "bitrate": 1502
     },
     {
@@ -3155,8 +3155,8 @@
       "id": 2617917463,
       "size": 2973904,
       "md5": "069159559315c4c711edd3eb8f895700",
-      "name": "08 Daily Prayer ⼀段少女的祈禱",
-      "ext": "mp3",
+      "name": "Daily Prayer ⼀段少女的祈祷",
+      "ext": "flac",
       "bitrate": 1142
     },
     {
@@ -3168,8 +3168,8 @@
       "id": 2617916654,
       "size": 38411924,
       "md5": "3125fb0489f439710dff083ac88e19a0",
-      "name": "09 The Blueprint of Otomen 少女藍圖",
-      "ext": "mp3",
+      "name": "The Blueprint of Otomen 少女蓝图",
+      "ext": "flac",
       "bitrate": 1249
     },
     {
@@ -3181,8 +3181,8 @@
       "id": 2617916659,
       "size": 48680063,
       "md5": "2cd52e1eeb0197b3a8f15f9bf470be77",
-      "name": "15 ⼀家⼈相親相愛",
-      "ext": "mp3",
+      "name": "一家人相亲相爱",
+      "ext": "flac",
       "bitrate": 1602
     },
     {
@@ -3194,8 +3194,8 @@
       "id": 2617917464,
       "size": 53004977,
       "md5": "cab8da99724e6e0d86e92d960384ab3f",
-      "name": "11 垃圾寶⾙",
-      "ext": "mp3",
+      "name": "垃圾宝⾙",
+      "ext": "flac",
       "bitrate": 1589
     },
     {
@@ -3207,8 +3207,8 @@
       "id": 2617917465,
       "size": 38238979,
       "md5": "4df1053d71cbdea8c88f1587f6bf082a",
-      "name": "16 To Forgive 宥",
-      "ext": "mp3",
+      "name": "To Forgive 宥",
+      "ext": "flac",
       "bitrate": 1291
     },
     {
@@ -3220,8 +3220,8 @@
       "id": 2617916655,
       "size": 48691926,
       "md5": "fd9b38b6b866022d2885a0b94da41cf1",
-      "name": "10 少女",
-      "ext": "mp3",
+      "name": "少女",
+      "ext": "flac",
       "bitrate": 1635
     },
     {
@@ -3233,8 +3233,8 @@
       "id": 2617916658,
       "size": 4326925,
       "md5": "4d0de95cbef143ad9228f38be280315c",
-      "name": "14 Drawing 畫名字",
-      "ext": "mp3",
+      "name": "Drawing 画名字",
+      "ext": "flac",
       "bitrate": 1215
     }
   ]
