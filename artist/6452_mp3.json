@@ -924,19 +924,6 @@
             "bitrate": 90000
         },
         {
-            "artist": "休眠火山",
-            "artists": [
-                "休眠火山"
-            ],
-            "album": "第57次取消发送",
-            "id": 3321694235,
-            "size": 22660406,
-            "md5": "c7884967f7f137668145dafe8c7e4820",
-            "name": "第57次取消发送",
-            "ext": "mp3",
-            "bitrate": 90000
-        },
-        {
             "artist": "周杰倫",
             "artists": [
                 "周杰倫"
@@ -948,6 +935,58 @@
             "name": "爱在西元前",
             "ext": "mp3",
             "bitrate": 320
+        },
+        {
+            "artist": "周杰伦",
+            "artists": [
+                "周杰伦"
+            ],
+            "album": "幻城 电视剧原声带",
+            "id": 2743868301,
+            "size": 63528043,
+            "md5": "217dc9d8deec346b5bf4764dbe382068",
+            "name": "不该 (with aMEI)",
+            "ext": "flac",
+            "bitrate": 1740
+        },
+        {
+            "artist": "江语晨",
+            "artists": [
+                "江语晨"
+            ],
+            "album": "晴天娃娃",
+            "md5": "8211dd21d37050d3a3a0ae42d7f6202c",
+            "ext": "flac",
+            "bitrate": 958,
+            "id": "3322368463",
+            "name": "浪漫爱",
+            "size": 30098081
+        },
+        {
+            "artist": "沈懿",
+            "artists": [
+                "沈懿"
+            ],
+            "album": "大灌篮 电影原声带",
+            "md5": "ea88db31efe95a5289e39d3846ca66d3",
+            "ext": "flac",
+            "bitrate": 969,
+            "id": "3322367557",
+            "name": "战舞",
+            "size": 19390825
+        },
+        {
+            "artist": "周杰伦",
+            "artists": [
+                "周杰伦"
+            ],
+            "album": "即兴曲",
+            "id": 2712553851,
+            "size": 16447334,
+            "md5": "cd1115713f907d4e8a1884f7202fed24",
+            "name": "即兴曲",
+            "ext": "flac",
+            "bitrate": 1329
         },
         {
             "artist": "周杰伦",

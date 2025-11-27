@@ -25,7 +25,7 @@ const path = require('path');
  */
 const config = {
   // 第一个JSON文件路径
-  file1: 'D:/Documents/cdn/artist/5.json',
+  file1: 'D:/Documents/cdn/artist/6452_mp3.json',
   // 第二个JSON文件路径
   file2: 'D:/Documents/cdn/artist/3.json',
   // 输出报告的路径（可选）
