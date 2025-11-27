@@ -25,11 +25,11 @@ const path = require('path');
  */
 const config = {
   // 第一个JSON文件路径
-  file1: 'd:/Download/stolenList (28).json',
+  file1: 'D:/Documents/cdn/artist/5.json',
   // 第二个JSON文件路径
-  file2: 'd:/Download/stolenList (29).json',
+  file2: 'D:/Documents/cdn/artist/3.json',
   // 输出报告的路径（可选）
-  outputPath: './scripts/output/comparison-report.txt',
+  outputPath: './scripts/output/zjl-comparison-report.txt',
   // 是否将结果写入文件
   writeToFile: true,
   // 是否在控制台显示结果

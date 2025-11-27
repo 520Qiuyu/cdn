@@ -2433,6 +2433,19 @@
       "bitrate": 90000
     },
     {
+      "artist": "周杰伦",
+      "artists": [
+        "周杰伦"
+      ],
+      "album": "不能说的秘密 电影原声带",
+      "id": 2719833334,
+      "size": 10378363,
+      "md5": "6c9ac975bdb8a79c588eba9b773b8fb8",
+      "name": "Secret",
+      "ext": "flac",
+      "bitrate": 573
+    },
+    {
       "artist": "不能说的秘密",
       "artists": [
         "不能说的秘密"
