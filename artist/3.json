@@ -1596,17 +1596,6 @@
       "bitrate": 1732
     },
     {
-      "artist": "杨瑞代",
-      "artists": ["杨瑞代"],
-      "album": "黄俊郎的黑",
-      "id": 2719848610,
-      "size": 6356621,
-      "md5": "be5a0155541a77c5107936deed14ffec",
-      "name": "天才之翼",
-      "ext": "flac",
-      "bitrate": 434
-    },
-    {
       "artist": "周杰伦",
       "artists": ["周杰伦"],
       "album": "周杰伦 2004 无与伦比 演唱会 Live CD",
@@ -3313,14 +3302,29 @@
     },
     {
       "artist": "周杰伦",
-      "artists": ["周杰伦"],
+      "artists": [
+        "周杰伦"
+      ],
       "album": "寻找周杰伦",
-      "id": 2719829870,
-      "size": 32645717,
-      "md5": "1502d073ea825a750d5b34fdfff6f14b",
+      "id": 3323295884,
+      "size": 33657924,
+      "md5": "9ce456b0be9930cf714e06f956ea9261",
       "name": "断了的弦",
       "ext": "flac",
-      "bitrate": 890
+      "bitrate": 90000
+    },
+    {
+      "artist": "杨​瑞代",
+      "artists": [
+        "杨​瑞代"
+      ],
+      "album": "黄俊郎的黑​",
+      "id": 3323272756,
+      "size": 6355609,
+      "md5": "e044886327619beda687023473f4f94a",
+      "name": "天才之​​翼",
+      "ext": "flac",
+      "bitrate": 464
     },
     {
       "artist": "周杰伦",
