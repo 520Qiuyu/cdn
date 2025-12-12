@@ -4038,6 +4038,17 @@
       "bitrate": 90000
     },
     {
+      "artist": "周杰伦 言承旭 吴建豪 周渝民 五月天 阿信",
+      "artists": ["周杰伦 言承旭 吴建豪 周渝民 五月天 阿信"],
+      "album": "恒星不忘 Forever Forever",
+      "id": 3328051368,
+      "size": 11633258,
+      "md5": "a008a8705d66cf90c8bee58cd9c79ac9",
+      "name": "恒星不忘 Forever Forever",
+      "ext": "mp3",
+      "bitrate": 320
+    },
+    {
       "artist": "派伟俊",
       "artists": ["派伟俊"],
       "album": "Try",
