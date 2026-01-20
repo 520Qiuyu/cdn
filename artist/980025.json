@@ -1,0 +1,1343 @@
+{
+    "data": [
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "Nobody But Me（LOL 音乐节特别版）",
+            "id": 1329675000,
+            "size": 54764042,
+            "md5": "42b24be7a220157f102989e719f9c67b",
+            "name": "Nobody But Me",
+            "ext": "flac",
+            "bitrate": 1708
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "想念你想我 (《冬至》影视剧主题曲)",
+            "id": 2646438117,
+            "size": 26631889,
+            "md5": "49c64b3fdbec8dbc30b140db5bdc9ee1",
+            "name": "想念你想我",
+            "ext": "flac",
+            "bitrate": 887
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "想知道你在想什么 (《我吃了那男孩一整年的早餐》电影主题曲)",
+            "id": 1913284313,
+            "size": 11763024,
+            "md5": "8f12a149fdc49fcc4559fa53124d38bc",
+            "name": "想知道你在想什么",
+            "ext": "mp3",
+            "bitrate": 321
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "Take My Time",
+            "id": 2750636429,
+            "size": 49823324,
+            "md5": "ecb472cdb9ba0d9da81f54adfd8c03b4",
+            "name": "Take My Time",
+            "ext": "flac",
+            "bitrate": 1768
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "Me and You (Remastered)",
+            "id": 2750950352,
+            "size": 45242492,
+            "md5": "4d856b5330621e1c00d9f523e44424e2",
+            "name": "Me and You (Remastered)",
+            "ext": "flac",
+            "bitrate": 1494
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "说太多",
+            "id": 1951994234,
+            "size": 6167189,
+            "md5": "986ce426339d9af0d2a6a4a799e91e98",
+            "name": "说太多",
+            "ext": "mp3",
+            "bitrate": 321
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "青春要用几行诗来写 (电视剧《颜心记》推广曲)",
+            "id": 2163872148,
+            "size": 30009434,
+            "md5": "920eeb67df13cc2c036972ae2dfa7379",
+            "name": "青春要用几行诗来写",
+            "ext": "flac",
+            "bitrate": 820
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "14 天",
+            "id": 1944389033,
+            "size": 8663455,
+            "md5": "2f2c2c5d1077ee96787aaf1e249afc6e",
+            "name": "14 天",
+            "ext": "mp3",
+            "bitrate": 321
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "Something about LA",
+            "id": 1385763675,
+            "size": 34068961,
+            "md5": "2a9192ac81a2424045c409adac817e75",
+            "name": "Something about LA",
+            "ext": "flac",
+            "bitrate": 1591
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "The little things",
+            "id": 2641780921,
+            "size": 44929505,
+            "md5": "ea2e7422128ebe725c51d9692f5bb505",
+            "name": "The little things",
+            "ext": "flac",
+            "bitrate": 1758
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570334024,
+            "size": 24279566,
+            "md5": "716a7acafd85503d98d928beee5ed68f",
+            "name": "终于等到你",
+            "ext": "flac",
+            "bitrate": 908
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570332031,
+            "size": 30870790,
+            "md5": "a7402abd918e59909a24879475e2672d",
+            "name": "永不失联的爱",
+            "ext": "flac",
+            "bitrate": 973
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570334022,
+            "size": 31978807,
+            "md5": "147260085acd683bf4571da2002a2d12",
+            "name": "易碎品",
+            "ext": "flac",
+            "bitrate": 983
+        },
+        {
+            "artist": "周兴哲",
+            "artists": [
+                "周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570333023,
+            "size": 26528068,
+            "md5": "2003c1d5cf92c69c13a2905e6319a2a8",
+            "name": "我知道要微笑",
+            "ext": "flac",
+            "bitrate": 794
+        },
+        {
+            "artist": "周兴哲",
+            "artists": [
+                "周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570326036,
+            "size": 4161427,
+            "md5": "a2e2b63deb8101e8ee55f89e3eaa5d53",
+            "name": "幸福太短",
+            "ext": "mp3",
+            "bitrate": 129
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570334023,
+            "size": 32705106,
+            "md5": "a89de19e6313ff319ccc48f79b4cdffb",
+            "name": "如果雨之后",
+            "ext": "flac",
+            "bitrate": 903
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570332033,
+            "size": 46780303,
+            "md5": "0b60d1072cdf724230d6867a731bbf95",
+            "name": "同义词",
+            "ext": "flac",
+            "bitrate": 1797
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570332032,
+            "size": 39106274,
+            "md5": "21825ba3411ba4df6af1fb5e9a910fee",
+            "name": "你好不好",
+            "ext": "flac",
+            "bitrate": 987
+        },
+        {
+            "artist": "周兴哲",
+            "artists": [
+                "周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570332034,
+            "size": 4273444,
+            "md5": "681bae32439d67833c30be51b6bf1fdb",
+            "name": "以后别做朋友",
+            "ext": "mp3",
+            "bitrate": 129
+        },
+        {
+            "artist": "周兴哲",
+            "artists": [
+                "周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570334021,
+            "size": 23006887,
+            "md5": "0d73315d9fee69787e640d9f8c2cfe69",
+            "name": "Without Her",
+            "ext": "flac",
+            "bitrate": 860
+        },
+        {
+            "artist": "周兴哲",
+            "artists": [
+                "周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570326037,
+            "size": 3889368,
+            "md5": "4ddd627f4f8764ed0ab1625688c3987f",
+            "name": "I See You Everywhere",
+            "ext": "mp3",
+            "bitrate": 129
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "“如果雨之后”北京首唱会Live专辑",
+            "id": 570332029,
+            "size": 26043066,
+            "md5": "8d16627b60ae4664cd8d69cdc2c464ea",
+            "name": "Another You",
+            "ext": "flac",
+            "bitrate": 978
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "一样美丽 (同心版)",
+            "id": 1426211125,
+            "size": 56294440,
+            "md5": "8445252b14542997b8775263482c2688",
+            "name": "一样美丽",
+            "ext": "flac",
+            "bitrate": 1609
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "不喜欢没有你的地方",
+            "id": 2092283244,
+            "size": 44137705,
+            "md5": "51f83afd222e652bcd6cb4099f159637",
+            "name": "不喜欢没有你的地方",
+            "ext": "flac",
+            "bitrate": 1554
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "不完整的人",
+            "id": 2637305579,
+            "size": 53428022,
+            "md5": "26e7b52ad7c4da0f9b617ff0679ff528",
+            "name": "不完整的人",
+            "ext": "flac",
+            "bitrate": 1556
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "你不属于我",
+            "id": 1886812704,
+            "size": 59832918,
+            "md5": "f2dbc192b3cf3d7e847d8e62bae5e797",
+            "name": "你不属于我",
+            "ext": "flac",
+            "bitrate": 1485
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "你的婚礼 电影原声带",
+            "id": 1843680438,
+            "size": 62091733,
+            "md5": "3200728c0aa445267b9a13af9fcb35b8",
+            "name": "离开你以后",
+            "ext": "flac",
+            "bitrate": 1604
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "你，好不好？",
+            "id": 413812809,
+            "size": 56192986,
+            "md5": "b92545fd55e3ecacccb7faa4098ef500",
+            "name": "你，好不好？",
+            "ext": "flac",
+            "bitrate": 1565
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022070,
+            "size": 34198858,
+            "md5": "ae15b40e6419b25d7afd09ab0042c25b",
+            "name": "永不结束的情人节",
+            "ext": "flac",
+            "bitrate": 1601
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650021092,
+            "size": 39174404,
+            "md5": "b707f6f9e9530e01dedb6c192315e935",
+            "name": "时间它不会",
+            "ext": "flac",
+            "bitrate": 1599
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650021091,
+            "size": 46260324,
+            "md5": "1e23b58ffc2fbc4d9997a14cb5564c27",
+            "name": "我们没开始",
+            "ext": "flac",
+            "bitrate": 1600
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022064,
+            "size": 51015237,
+            "md5": "75474c0813ac5e822a77e195a02fa324",
+            "name": "想念你想我",
+            "ext": "flac",
+            "bitrate": 1697
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022063,
+            "size": 38457022,
+            "md5": "5fef3ea07d6e659cf8128d02de9ce0ac",
+            "name": "巴黎的夜晚走走",
+            "ext": "flac",
+            "bitrate": 1786
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022065,
+            "size": 51332580,
+            "md5": "8bb66967ada63a6d79364e656d985953",
+            "name": "几乎是爱情",
+            "ext": "flac",
+            "bitrate": 1619
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022069,
+            "size": 53428022,
+            "md5": "f2bb6b610f9c25b611e1abd167772f9f",
+            "name": "不完整的人",
+            "ext": "flac",
+            "bitrate": 1555
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022067,
+            "size": 44929505,
+            "md5": "08e5ffa3f972c8d26d75f12f2ae11ebb",
+            "name": "The little things",
+            "ext": "flac",
+            "bitrate": 1757
+        },
+        {
+            "artist": "Eric周兴哲/魏如萱",
+            "artists": [
+                "Eric周兴哲/魏如萱"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022071,
+            "size": 38675463,
+            "md5": "cdd420449467d738d3daa573ae3d3112",
+            "name": "I love us",
+            "ext": "flac",
+            "bitrate": 1444
+        },
+        {
+            "artist": "Eric周兴哲/Gummy B",
+            "artists": [
+                "Eric周兴哲/Gummy B"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022068,
+            "size": 47184500,
+            "md5": "00d5785fd6d7c686bd21e970742bd26c",
+            "name": "Dreamers",
+            "ext": "flac",
+            "bitrate": 1681
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "几乎是爱情",
+            "id": 2650022066,
+            "size": 29467842,
+            "md5": "806fd3cc931173715b21fa1b404b04a5",
+            "name": "Aim and Shoot",
+            "ext": "flac",
+            "bitrate": 1672
+        },
+        {
+            "artist": "周兴哲",
+            "artists": [
+                "周兴哲"
+            ],
+            "album": "如果能幸福",
+            "id": 1501468143,
+            "size": 10386487,
+            "md5": "9ce258230af0d437ce651064c935627d",
+            "name": "如果能幸福",
+            "ext": "mp3",
+            "bitrate": 321
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 523251340,
+            "size": 52566228,
+            "md5": "41532db2803b303fd9428ed35604a4fb",
+            "name": "黏黏",
+            "ext": "flac",
+            "bitrate": 1714
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 523250334,
+            "size": 53533690,
+            "md5": "450d2cbf5915592df36f38ab2538886b",
+            "name": "永不失联的爱",
+            "ext": "flac",
+            "bitrate": 1654
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 523249340,
+            "size": 56172539,
+            "md5": "a327f760c54016c9e21af87574d2adf6",
+            "name": "易碎品",
+            "ext": "flac",
+            "bitrate": 1755
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 523250335,
+            "size": 53506117,
+            "md5": "df3127e7f35f7be8dca519e1f028c3cf",
+            "name": "我知道要微笑",
+            "ext": "flac",
+            "bitrate": 1600
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 502228485,
+            "size": 51591002,
+            "md5": "e84874478f6351c8bd4aae6ea842c605",
+            "name": "快乐一次拥有",
+            "ext": "flac",
+            "bitrate": 1853
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 522510114,
+            "size": 60888127,
+            "md5": "a94e6284f97561d5071ad96e54538ec8",
+            "name": "如果雨之后",
+            "ext": "flac",
+            "bitrate": 1725
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 523248350,
+            "size": 46780303,
+            "md5": "3c698ff2fc7a0deeca980c6229ea39f3",
+            "name": "同义词",
+            "ext": "flac",
+            "bitrate": 1798
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 518094262,
+            "size": 46302180,
+            "md5": "38d4eaad0784cf1e69737d36fb34f97c",
+            "name": "Without Her",
+            "ext": "flac",
+            "bitrate": 1705
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 523250333,
+            "size": 50288928,
+            "md5": "31581c4f3a51de8bf1e223f9b0a9c286",
+            "name": "I See You Everywhere",
+            "ext": "flac",
+            "bitrate": 1655
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "如果雨之后",
+            "id": 523249341,
+            "size": 47499147,
+            "md5": "b13a5b826cbb12d3748a6772105a15fa",
+            "name": "Another You",
+            "ext": "flac",
+            "bitrate": 1788
+        },
+        {
+            "artist": "周兴哲",
+            "artists": [
+                "周兴哲"
+            ],
+            "album": "如果雨之后 (Live)",
+            "id": 1353476953,
+            "size": 10022354,
+            "md5": "3abf1f5806eb61f25e760781ad1a62be",
+            "name": "如果雨之后",
+            "ext": "mp3",
+            "bitrate": 320
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932089,
+            "size": 48705339,
+            "md5": "33376f9f2f1445c7e68142e8c6288dc4",
+            "name": "音乐快门",
+            "ext": "flac",
+            "bitrate": 1779
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932084,
+            "size": 56837357,
+            "md5": "702ee638d8c0ce60648ffed1a41d1273",
+            "name": "跟钢琴说话",
+            "ext": "flac",
+            "bitrate": 1618
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932086,
+            "size": 58060746,
+            "md5": "b3103dd7510b737a4b465ab82aea8954",
+            "name": "爱情导演",
+            "ext": "flac",
+            "bitrate": 1684
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932087,
+            "size": 61748549,
+            "md5": "499aeaeef5e1606181592fffbd76a30c",
+            "name": "爱在圣诞",
+            "ext": "flac",
+            "bitrate": 1734
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932085,
+            "size": 52207043,
+            "md5": "833794a7ceddac5a5e1406889c1c750b",
+            "name": "怎么好意思",
+            "ext": "flac",
+            "bitrate": 1752
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932081,
+            "size": 48942715,
+            "md5": "c04cbf858910c9c87e74c835fc2bfab5",
+            "name": "学着爱",
+            "ext": "flac",
+            "bitrate": 1541
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932083,
+            "size": 49552616,
+            "md5": "52ddfbad251a8ad059a90ba99c4cf7ad",
+            "name": "在你耳边说",
+            "ext": "flac",
+            "bitrate": 1702
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932090,
+            "size": 52402270,
+            "md5": "5106df9fb047cff043337106e7ad64f1",
+            "name": "再爱你",
+            "ext": "flac",
+            "bitrate": 1615
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932088,
+            "size": 53673106,
+            "md5": "7eb52c86637c09332e678b95c1564bc4",
+            "name": "会飞的想念",
+            "ext": "flac",
+            "bitrate": 1767
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "学着爱",
+            "id": 29932091,
+            "size": 46427865,
+            "md5": "b07b5a984a8bede1fad464fba7b028a9",
+            "name": "Come Out Your Way",
+            "ext": "flac",
+            "bitrate": 1628
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414113194,
+            "size": 49690676,
+            "md5": "057fecbf772471d37ac2fc4aacf2ddd4",
+            "name": "相信爱",
+            "ext": "flac",
+            "bitrate": 1494
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414113195,
+            "size": 53965905,
+            "md5": "8e627bd9fa1871f3dd68eaa35c1091e8",
+            "name": "我很快乐",
+            "ext": "flac",
+            "bitrate": 1454
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414112302,
+            "size": 39477398,
+            "md5": "9ac300d44d629314b6569f3ca9c65152",
+            "name": "小时候的我们",
+            "ext": "flac",
+            "bitrate": 1522
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414113193,
+            "size": 58644881,
+            "md5": "514aac27ff3116fecb6ecf3d35d49582",
+            "name": "受够",
+            "ext": "flac",
+            "bitrate": 1416
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414112312,
+            "size": 25886396,
+            "md5": "8f39003401c60270bdf25bb9ec882012",
+            "name": "其实你并没那么孤单",
+            "ext": "flac",
+            "bitrate": 1122
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414112307,
+            "size": 42426352,
+            "md5": "1b00bebaa68cc5eaa7ff82b785bf4017",
+            "name": "That's Why I Like You",
+            "ext": "flac",
+            "bitrate": 1593
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414112310,
+            "size": 40041191,
+            "md5": "50297b027e551a82b713f0c0649095b7",
+            "name": "That's All",
+            "ext": "flac",
+            "bitrate": 1574
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414112311,
+            "size": 35253352,
+            "md5": "453be395b628ef4d5cc6d63b86096f13",
+            "name": "Something About You",
+            "ext": "flac",
+            "bitrate": 1463
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414112308,
+            "size": 32168590,
+            "md5": "5e8738863fb384ed883e5557228064bc",
+            "name": "Rollercoasters",
+            "ext": "flac",
+            "bitrate": 1525
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "小时候的我们",
+            "id": 1414112300,
+            "size": 33588471,
+            "md5": "ee535581b35d851ff9500ad1e069a8a2",
+            "name": "In the Works",
+            "ext": "flac",
+            "bitrate": 1513
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "巴黎的夜晚走走",
+            "id": 2635238293,
+            "size": 38457022,
+            "md5": "ed13c29e95c2e3d799714c03ffc97ba1",
+            "name": "巴黎的夜晚走走",
+            "ext": "flac",
+            "bitrate": 1787
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "我爱过你",
+            "id": 421929077,
+            "size": 60666195,
+            "md5": "ad5ed48eb64679ecdb9d0f8688c52488",
+            "name": "我爱过你",
+            "ext": "flac",
+            "bitrate": 1604
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "挚友",
+            "id": 2049541052,
+            "size": 63865022,
+            "md5": "20ca38926f9a8d1dba68459a04cf2e27",
+            "name": "挚友",
+            "ext": "flac",
+            "bitrate": 1631
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "明天我在你身边",
+            "id": 2628691090,
+            "size": 58914371,
+            "md5": "a48321054eb5054ef2e03c27c8e3bc88",
+            "name": "明天我在你身边",
+            "ext": "flac",
+            "bitrate": 1734
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "最后一堂课",
+            "id": 1967981040,
+            "size": 58817812,
+            "md5": "485ac3039222d244fbedc41837a93ea1",
+            "name": "最后一堂课",
+            "ext": "flac",
+            "bitrate": 1688
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱在身边",
+            "id": 451520686,
+            "size": 64551226,
+            "md5": "bd8afd610a4a85707140f22419d30834",
+            "name": "爱在身边",
+            "ext": "flac",
+            "bitrate": 1670
+        },
+        {
+            "artist": "单依纯",
+            "artists": [
+                "单依纯"
+            ],
+            "album": "爱我的时候",
+            "id": 1960301610,
+            "size": 44803931,
+            "md5": "b7c8c06cef682f381102d7e6c1354a98",
+            "name": "爱我的时候",
+            "ext": "flac",
+            "bitrate": 1597
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 424264504,
+            "size": 54977261,
+            "md5": "9af85e9fecff63295eda1699a617cbcf",
+            "name": "负一分钟",
+            "ext": "flac",
+            "bitrate": 1666
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 424262532,
+            "size": 45096153,
+            "md5": "29df25a4baa0c342d753ba387e5bd04c",
+            "name": "认定",
+            "ext": "flac",
+            "bitrate": 1645
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 424262530,
+            "size": 59050937,
+            "md5": "7bc7212db4c916e5ba6c14209a04c986",
+            "name": "爱情教会我们的事",
+            "ext": "flac",
+            "bitrate": 1607
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 424262531,
+            "size": 45764905,
+            "md5": "f066c650239e738687cef438b6617e69",
+            "name": "明明",
+            "ext": "flac",
+            "bitrate": 1670
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 424264506,
+            "size": 50194137,
+            "md5": "e5d8cd2ce5004c7c3d4884bcc3575d6a",
+            "name": "我爱的那种",
+            "ext": "flac",
+            "bitrate": 1761
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 411921142,
+            "size": 55691875,
+            "md5": "0156b82317ab9f6a8ba0ce2bfe458b15",
+            "name": "想回到那一天",
+            "ext": "flac",
+            "bitrate": 1696
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 424264505,
+            "size": 58622505,
+            "md5": "4bffa6c04038a43ba03fa30299c7f5b2",
+            "name": "你，好不好？",
+            "ext": "flac",
+            "bitrate": 1633
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 424264503,
+            "size": 47988051,
+            "md5": "9f58b644bc0c629e6b931f5b1d46cc5e",
+            "name": "This Is Love",
+            "ext": "flac",
+            "bitrate": 1619
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 424262529,
+            "size": 49975058,
+            "md5": "9fa7b5e44b7a325b82ab569add27e53e",
+            "name": "No One Like You",
+            "ext": "flac",
+            "bitrate": 1704
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "爱，教会我们的事",
+            "id": 422920784,
+            "size": 53314821,
+            "md5": "d90191e3d7317245540cae9b4754b595",
+            "name": "Let It Go",
+            "ext": "flac",
+            "bitrate": 1793
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由",
+            "id": 1336994034,
+            "size": 26876041,
+            "md5": "12039f7f337079ae4840eca49da8c8bf",
+            "name": "至少我还记得",
+            "ext": "flac",
+            "bitrate": 706
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由",
+            "id": 1336990252,
+            "size": 29237954,
+            "md5": "a7ee0d59896f16ad5fdfb8158b90de55",
+            "name": "终于了解自由",
+            "ext": "flac",
+            "bitrate": 739
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由",
+            "id": 1336990251,
+            "size": 30939576,
+            "md5": "e85cd9eb6efaf7f561dff0eeca8abbd4",
+            "name": "怎么了",
+            "ext": "flac",
+            "bitrate": 771
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由",
+            "id": 1336990250,
+            "size": 23356206,
+            "md5": "8bde3ca50411b2aa4ed35a7aa8cafdf8",
+            "name": "Old Days",
+            "ext": "flac",
+            "bitrate": 951
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由",
+            "id": 1331927673,
+            "size": 31155093,
+            "md5": "2c45151091038edfc62cac1e03bfe40b",
+            "name": "Nobody But Me",
+            "ext": "flac",
+            "bitrate": 983
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410874262,
+            "size": 26876041,
+            "md5": "a037e90562eea850eab50f5c6fbd2d83",
+            "name": "至少我还记得",
+            "ext": "flac",
+            "bitrate": 706
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410874264,
+            "size": 29237954,
+            "md5": "0201440a8b85a47fa12851266830bf0a",
+            "name": "终于了解自由",
+            "ext": "flac",
+            "bitrate": 739
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410874261,
+            "size": 30939576,
+            "md5": "2f97af8940025d43de7ac7cf170ce7d4",
+            "name": "怎么了",
+            "ext": "flac",
+            "bitrate": 771
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410874263,
+            "size": 56301705,
+            "md5": "1487a75ab21e70386da653dba0a7fc87",
+            "name": "一样美丽",
+            "ext": "flac",
+            "bitrate": 1618
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410872319,
+            "size": 36883514,
+            "md5": "9e02afbd2d575a1682478cdc58d984f5",
+            "name": "Something about LA",
+            "ext": "flac",
+            "bitrate": 1723
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410874260,
+            "size": 44714238,
+            "md5": "789731db834e3b3a6a40c2314108e637",
+            "name": "Room for You",
+            "ext": "flac",
+            "bitrate": 1722
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410872318,
+            "size": 23356206,
+            "md5": "934060c021e6195b51af89dc468d00f6",
+            "name": "Old Days",
+            "ext": "flac",
+            "bitrate": 952
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410872320,
+            "size": 31155093,
+            "md5": "6fe174adf25a1a86e3abb88382a4634b",
+            "name": "Nobody But Me",
+            "ext": "flac",
+            "bitrate": 983
+        },
+        {
+            "artist": "Eric周兴哲",
+            "artists": [
+                "Eric周兴哲"
+            ],
+            "album": "终于了解自由 (Deluxe)",
+            "id": 1410872321,
+            "size": 44344139,
+            "md5": "86e80d07c4bfbe91d6fcddff0436ebd5",
+            "name": "I Don't Mind",
+            "ext": "flac",
+            "bitrate": 1718
+        },
+        {
+            "artist": "单依纯",
+            "artists": [
+                "单依纯"
+            ],
+            "album": "爱我的时候",
+            "id": 1960301612,
+            "size": 44803931,
+            "md5": "da9a7d0759f702dce5894f3ab6136a53",
+            "name": "爱我的时候",
+            "ext": "flac",
+            "bitrate": 1598
+        }
+    ]
+}

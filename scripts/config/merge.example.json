@@ -1,0 +1,15 @@
+{
+  "mainFile": "d:/Download/stolenList (28).json",
+  "secondaryFile": "d:/Download/stolenList (29).json",
+  "outputFile": "./scripts/output/merged-result.json",
+  "createBackup": true,
+  "backupPath": "",
+  "showPreview": true,
+  "mergeStrategy": {
+    "uniqueBy": "name+album",
+    "keepMainOrder": true,
+    "appendPosition": "end",
+    "sortNewByAlbum": true
+  }
+}
+

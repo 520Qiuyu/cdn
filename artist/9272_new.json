@@ -1,0 +1,3579 @@
+{
+  "data": [
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287206,
+      "size": 26511101,
+      "md5": "57264c592f9b02e040278638a3ceb805",
+      "name": "作战",
+      "ext": "flac",
+      "bitrate": 959
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287514,
+      "size": 26711113,
+      "md5": "d9e35fe7c171da0d9be2eb37325cd487",
+      "name": "作战",
+      "ext": "flac",
+      "bitrate": 971
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "最后之后",
+      "id": 2735191100,
+      "size": 56325615,
+      "md5": "0a1ac977bbde0619de0684a98227f658",
+      "name": "最后之后",
+      "ext": "flac",
+      "bitrate": 1697
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735185139,
+      "size": 30629361,
+      "md5": "f2573eab0910f7e84ee461d1352fcd13",
+      "name": "自然",
+      "ext": "flac",
+      "bitrate": 925
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 287760,
+      "size": 24014912,
+      "md5": "897d334088e246600f4d522e96c51dcf",
+      "name": "自然",
+      "ext": "flac",
+      "bitrate": 924
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 286957,
+      "size": 23816926,
+      "md5": "97b06eff23a7057b1bec0b8c21f39ac3",
+      "name": "追",
+      "ext": "flac",
+      "bitrate": 897
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287277,
+      "size": 30126248,
+      "md5": "af83435088272d59a1aa61d7d373278d",
+      "name": "祝你开心",
+      "ext": "flac",
+      "bitrate": 1030
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 287204,
+      "size": 30635940,
+      "md5": "be841146a2436202052dc959e0ae84d0",
+      "name": "祝你开心",
+      "ext": "flac",
+      "bitrate": 1040
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287288,
+      "size": 30485999,
+      "md5": "e77343e25bcae4b1bcae84fe686ce7d8",
+      "name": "种",
+      "ext": "flac",
+      "bitrate": 965
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 287763,
+      "size": 24497644,
+      "md5": "92818747177e2ee2d4d62f5998311393",
+      "name": "终于",
+      "ext": "flac",
+      "bitrate": 716
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 287722,
+      "size": 32740808,
+      "md5": "bcfb4f0fc15be276f309f68529018bbf",
+      "name": "中间地带",
+      "ext": "flac",
+      "bitrate": 961
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287524,
+      "size": 24293985,
+      "md5": "8c2e22363f8ced40f42a74a2ce483cd7",
+      "name": "直来直往",
+      "ext": "flac",
+      "bitrate": 904
+    },
+    {
+      "artist": "张惠妹",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "真实 (Remastered)",
+      "id": 28314072,
+      "size": 31498352,
+      "md5": "20c7fd4cc7fdb2551346712f0f4a457e",
+      "name": "真实",
+      "ext": "flac",
+      "bitrate": 904
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 2735188000,
+      "size": 12253573,
+      "md5": "472fa6be438ee7ac4cb61d5f51953d27",
+      "name": "真的",
+      "ext": "flac",
+      "bitrate": 707
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 287372,
+      "size": 57189379,
+      "md5": "b2f9fc7669ed0691e60130cb4717aaaf",
+      "name": "真的",
+      "ext": "flac",
+      "bitrate": 1605
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735191850,
+      "size": 26797240,
+      "md5": "f8a4b31e33e449f88c96cc698d5fa174",
+      "name": "真的",
+      "ext": "flac",
+      "bitrate": 960
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 2735184034,
+      "size": 1701655,
+      "md5": "f9b58b192d87b00911bcf612a892300c",
+      "name": "真的",
+      "ext": "flac",
+      "bitrate": 463
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287629,
+      "size": 30276589,
+      "md5": "6bac6515eb7dda66bf29b9093c5df942",
+      "name": "真的",
+      "ext": "flac",
+      "bitrate": 843
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "彩虹金刚 EP",
+      "id": 426027305,
+      "size": 22421288,
+      "md5": "c1ccc11dfd352a14bac162f65e56b5fd",
+      "name": "这个世界",
+      "ext": "flac",
+      "bitrate": 839
+    },
+    {
+      "artist": "何炅",
+      "artists": [
+        "何炅"
+      ],
+      "album": "要久久爱原声带",
+      "id": 2112485197,
+      "size": 56814831,
+      "md5": "1107a54fb74a3ab475bb6a39d76ed950",
+      "name": "长大有时",
+      "ext": "flac",
+      "bitrate": 1645
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "在，也不见",
+      "id": 2735195492,
+      "size": 22648541,
+      "md5": "daa0734455728da09d2e1892653692c4",
+      "name": "在,也不见",
+      "ext": "flac",
+      "bitrate": 760
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 1331876115,
+      "size": 23716332,
+      "md5": "a803122e7dfd248742fbc7f19fa0cc21",
+      "name": "原来你什么都不要",
+      "ext": "flac",
+      "bitrate": 842
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿经典全纪录 主打精华版",
+      "id": 2735188854,
+      "size": 27437220,
+      "md5": "54bbeec8a44f1ac1a25edbc1e0239a94",
+      "name": "原点",
+      "ext": "flac",
+      "bitrate": 874
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Your Song 2006 新歌+精选",
+      "id": 2735191771,
+      "size": 27198167,
+      "md5": "ba6baa66fb1ad846a79f1df7ae2160b8",
+      "name": "原点",
+      "ext": "flac",
+      "bitrate": 874
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿经典全纪录 主打精华版",
+      "id": 5236300,
+      "size": 20629443,
+      "md5": "b1aeefd0ee80782ffde4500bcef67a6d",
+      "name": "遇见",
+      "ext": "flac",
+      "bitrate": 769
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 5255327,
+      "size": 25121145,
+      "md5": "20933427715e7db0f7d93118fbcbacfe",
+      "name": "雨天",
+      "ext": "flac",
+      "bitrate": 818
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 2060248684,
+      "size": 30624932,
+      "md5": "801c629de1cbebcdfa55606471de0cc3",
+      "name": "雨还是不停地落下",
+      "ext": "flac",
+      "bitrate": 840
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 1941657333,
+      "size": 23931349,
+      "md5": "f24c6907544e08f88e6879141de6dcc4",
+      "name": "愚人的国度",
+      "ext": "flac",
+      "bitrate": 765
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "余额",
+      "id": 1892513966,
+      "size": 42461576,
+      "md5": "ee1e323b9f68c6eade3dc48fda0743e2",
+      "name": "余额",
+      "ext": "flac",
+      "bitrate": 1582
+    },
+    {
+      "artist": "张惠妹",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "2 Her",
+      "id": 28314069,
+      "size": 26940596,
+      "md5": "56099109e6309262cb134e6d50a2900c",
+      "name": "勇敢",
+      "ext": "flac",
+      "bitrate": 890
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 287361,
+      "size": 22565012,
+      "md5": "aa3f8eb099f1db418d4470a96d10597c",
+      "name": "永远",
+      "ext": "flac",
+      "bitrate": 834
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287399,
+      "size": 22598982,
+      "md5": "14168b3506020450852d1151198a36b4",
+      "name": "永远",
+      "ext": "flac",
+      "bitrate": 827
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287190,
+      "size": 31115928,
+      "md5": "376d18a45f4d0a8fe73c10ccd1469a9c",
+      "name": "隐形人",
+      "ext": "flac",
+      "bitrate": 892
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Your Song 2006 新歌+精选",
+      "id": 287244,
+      "size": 29603187,
+      "md5": "439a14e9a30dac6c55db5b708d9cee78",
+      "name": "隐形人",
+      "ext": "flac",
+      "bitrate": 853
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 1941965683,
+      "size": 27003910,
+      "md5": "a5cd4fdffb0a9e83ab6d1780c1598b31",
+      "name": "银泰",
+      "ext": "flac",
+      "bitrate": 815
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287124,
+      "size": 20356325,
+      "md5": "d5b8feff8849b0a7d1d5b1e587a0256d",
+      "name": "一样的夏天",
+      "ext": "flac",
+      "bitrate": 673
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287528,
+      "size": 20356309,
+      "md5": "c8b6271588bffed0e60dd671a3a45656",
+      "name": "一样的夏天",
+      "ext": "flac",
+      "bitrate": 673
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 79084,
+      "size": 28479683,
+      "md5": "40fddcb84a39bcfde74f9316884212c1",
+      "name": "一起走到",
+      "ext": "flac",
+      "bitrate": 905
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "要久久爱 原声带",
+      "id": 2735187694,
+      "size": 50134927,
+      "md5": "0c871842dad41b47f482f74f2841a119",
+      "name": "样子",
+      "ext": "flac",
+      "bitrate": 1615
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "要久久爱原声带",
+      "id": 2117877676,
+      "size": 48810396,
+      "md5": "b81fd2b929d26d8186a7192041de6ea8",
+      "name": "样子",
+      "ext": "flac",
+      "bitrate": 1573
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287540,
+      "size": 20952030,
+      "md5": "1ef15ccff5732476c2635d6f55cf8f16",
+      "name": "眼神",
+      "ext": "flac",
+      "bitrate": 787
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287173,
+      "size": 23429523,
+      "md5": "3bec0792f7515226f8c49f7b05564ef1",
+      "name": "眼泪成诗",
+      "ext": "flac",
+      "bitrate": 837
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Your Song 2006 新歌+精选",
+      "id": 2157425445,
+      "size": 22134024,
+      "md5": "40836a853d5e774ae81694b765e91f84",
+      "name": "眼泪成诗",
+      "ext": "flac",
+      "bitrate": 795
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 287406,
+      "size": 27385920,
+      "md5": "d3257a3a6671ebf42a8bd4cab5e233b7",
+      "name": "学会",
+      "ext": "flac",
+      "bitrate": 840
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287071,
+      "size": 32452631,
+      "md5": "89cc14e1cf097ef6fb4229ec14fee2f6",
+      "name": "漩涡",
+      "ext": "flac",
+      "bitrate": 884
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287073,
+      "size": 26748507,
+      "md5": "fb54b52f11b5737596edc9cb1b405739",
+      "name": "需要你",
+      "ext": "flac",
+      "bitrate": 853
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 287415,
+      "size": 24178619,
+      "md5": "56f7bf1327e5c1d44d5fae10eb7b3049",
+      "name": "休止符",
+      "ext": "flac",
+      "bitrate": 834
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 287733,
+      "size": 31522432,
+      "md5": "7497585feb03239c638728be189d1421",
+      "name": "星期一天气晴我离开你",
+      "ext": "flac",
+      "bitrate": 964
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287253,
+      "size": 32447443,
+      "md5": "b5989b006c0faa0dea06ea5b632dda8c",
+      "name": "心愿",
+      "ext": "flac",
+      "bitrate": 942
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735186513,
+      "size": 27898737,
+      "md5": "32188ba41543dfac17d01e4d395813fd",
+      "name": "相信",
+      "ext": "flac",
+      "bitrate": 812
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 1360465558,
+      "size": 26404388,
+      "md5": "415bd210ebb943f2b9b436e56ad1ec4f",
+      "name": "相信",
+      "ext": "flac",
+      "bitrate": 771
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287724,
+      "size": 25879268,
+      "md5": "b3d0b8aab9e8d37914e164e6617aa5d4",
+      "name": "相信",
+      "ext": "flac",
+      "bitrate": 752
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287591,
+      "size": 27052256,
+      "md5": "54430432207641db08b5946a5d7a4b9c",
+      "name": "天空",
+      "ext": "flac",
+      "bitrate": 842
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 2111913649,
+      "size": 26274856,
+      "md5": "a98244f6fbf050be6c9a6ccefd760367",
+      "name": "无限大",
+      "ext": "flac",
+      "bitrate": 828
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 287280,
+      "size": 26930202,
+      "md5": "b24dedf1b6b65a4b1add50e9a8dd672a",
+      "name": "我也很想他",
+      "ext": "flac",
+      "bitrate": 824
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 400075280,
+      "size": 27115348,
+      "md5": "86140c0e1ab2aeaa7631c04560354f96",
+      "name": "我也很想他",
+      "ext": "flac",
+      "bitrate": 835
+    },
+    {
+      "artist": "张惠妹",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "2 Her",
+      "id": 5255328,
+      "size": 28553642,
+      "md5": "4bdcaa97bfaf45dfaf064f66403aa9df",
+      "name": "我要快乐",
+      "ext": "flac",
+      "bitrate": 901
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735187456,
+      "size": 31153484,
+      "md5": "41c7d73a83347835e85090babaafc524",
+      "name": "我要的幸福",
+      "ext": "flac",
+      "bitrate": 897
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735187449,
+      "size": 26363521,
+      "md5": "705528fa1a659609af58f714eda4bd3b",
+      "name": "我要的幸福",
+      "ext": "flac",
+      "bitrate": 905
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 287716,
+      "size": 24089018,
+      "md5": "18973ffda0512ac9da113702bbc8b7a1",
+      "name": "我要的幸福",
+      "ext": "flac",
+      "bitrate": 882
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 32712818,
+      "size": 23979097,
+      "md5": "5d385bb2187dcfa600c4701b80b78597",
+      "name": "我要的幸福",
+      "ext": "flac",
+      "bitrate": 882
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287543,
+      "size": 30251763,
+      "md5": "7a36de3fb8f7b8f724fec7166e2bd460",
+      "name": "我想",
+      "ext": "flac",
+      "bitrate": 886
+    },
+    {
+      "artist": "张惠妹",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "勇敢",
+      "id": 326933,
+      "size": 31891468,
+      "md5": "ea0a8d9170a94f2ca13e547434147206",
+      "name": "我为什么那么爱你",
+      "ext": "flac",
+      "bitrate": 850
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 2735191296,
+      "size": 52898318,
+      "md5": "49d9e8d44531246496557e194a798508",
+      "name": "我是我",
+      "ext": "flac",
+      "bitrate": 1858
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 2735187374,
+      "size": 28614465,
+      "md5": "407309a9e35fb591a49446cd1a91d031",
+      "name": "我是我",
+      "ext": "flac",
+      "bitrate": 1003
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287063,
+      "size": 30181158,
+      "md5": "14523f91d641eaf757099621dde998b7",
+      "name": "我怀念的",
+      "ext": "flac",
+      "bitrate": 828
+    },
+    {
+      "artist": "张惠妹",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "真实 (Remastered)",
+      "id": 326999,
+      "size": 25548401,
+      "md5": "e8d5e6da44872a0ecd1e693531fa3e34",
+      "name": "我恨我爱你",
+      "ext": "flac",
+      "bitrate": 742
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 1891384959,
+      "size": 52534448,
+      "md5": "61698b26201818a6ba7fe7ad84d19503",
+      "name": "我很愉快",
+      "ext": "flac",
+      "bitrate": 1518
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287274,
+      "size": 26846685,
+      "md5": "0f13fd43c17be3709cfb0e70be649165",
+      "name": "我的爱",
+      "ext": "flac",
+      "bitrate": 809
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 32712806,
+      "size": 27234019,
+      "md5": "467e63df02685e88440fb0e4e55fbd17",
+      "name": "我的爱",
+      "ext": "flac",
+      "bitrate": 813
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 1468114210,
+      "size": 36060998,
+      "md5": "a6f96689914b061981c12eee16f00d27",
+      "name": "我不难过",
+      "ext": "flac",
+      "bitrate": 894
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2 Her",
+      "id": 287398,
+      "size": 36070148,
+      "md5": "03d94e547bc233905523f3149aba6a7d",
+      "name": "我不难过",
+      "ext": "flac",
+      "bitrate": 894
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story, Your Song 经典全纪录 (主打精华版)",
+      "id": 287014,
+      "size": 27466569,
+      "md5": "03ed63693ce15d35f366aeabc92a2b15",
+      "name": "我不爱",
+      "ext": "flac",
+      "bitrate": 813
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story, Your Song 经典全纪录 (主打精华版)",
+      "id": 287517,
+      "size": 27383574,
+      "md5": "813b2c0e6f053efbcd87d0b8ef169f28",
+      "name": "我不爱",
+      "ext": "flac",
+      "bitrate": 814
+    },
+    {
+      "artist": "五月天",
+      "artists": [
+        "五月天"
+      ],
+      "album": "温柔 #MaydayBlue20th",
+      "id": 2735172140,
+      "size": 61196788,
+      "md5": "a8881fd83d5477c775208fbe74118e5f",
+      "name": "温柔 #MaydayBlue20th",
+      "ext": "flac",
+      "bitrate": 1801
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 287296,
+      "size": 23805628,
+      "md5": "49231d6f15a20b3a12d58fc1ca420aa1",
+      "name": "未知的精采",
+      "ext": "flac",
+      "bitrate": 994
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 287400,
+      "size": 30778152,
+      "md5": "0a6fa9d09aa5ff725cb6084966ef2496",
+      "name": "未完成",
+      "ext": "flac",
+      "bitrate": 919
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 2087000575,
+      "size": 21779175,
+      "md5": "ed7a255ceeade60ce99c954038720b6b",
+      "name": "围绕",
+      "ext": "flac",
+      "bitrate": 874
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287037,
+      "size": 31506256,
+      "md5": "5860150c2bf3500cc7772bdf691f1522",
+      "name": "完美的一天",
+      "ext": "flac",
+      "bitrate": 1022
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287239,
+      "size": 30741296,
+      "md5": "07f31173061d5963db04d97715749ff5",
+      "name": "完美的一天",
+      "ext": "flac",
+      "bitrate": 998
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "彩虹金刚 EP",
+      "id": 426027302,
+      "size": 23632883,
+      "md5": "410249dabf6f5e24cdd507f65dbab0f8",
+      "name": "童谣1987",
+      "ext": "flac",
+      "bitrate": 716
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 1332718596,
+      "size": 21939157,
+      "md5": "106d879d5a69df321c56a389153645cf",
+      "name": "同类",
+      "ext": "flac",
+      "bitrate": 810
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 287283,
+      "size": 25139991,
+      "md5": "8d87127ed67c31cc6f63b6a4c4806d70",
+      "name": "听见",
+      "ext": "flac",
+      "bitrate": 875
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 1987755616,
+      "size": 40712212,
+      "md5": "ac97f382d3683595d60f35e8c757ca49",
+      "name": "跳舞的梵谷",
+      "ext": "flac",
+      "bitrate": 1718
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 516655202,
+      "size": 51558976,
+      "md5": "1da3df11d174bfcdf47f9f902bf698de",
+      "name": "天越亮，夜越黑",
+      "ext": "flac",
+      "bitrate": 1766
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 2046983834,
+      "size": 25233660,
+      "md5": "fbdb31fe73cec858a76355b5f6f6f63e",
+      "name": "天天年年",
+      "ext": "flac",
+      "bitrate": 840
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 1951113254,
+      "size": 23642919,
+      "md5": "20963008546c705ec678c7135876ffb2",
+      "name": "天使的指纹",
+      "ext": "flac",
+      "bitrate": 763
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735177662,
+      "size": 32578032,
+      "md5": "aa70d21408f7d91a2e87aeade63a6363",
+      "name": "天黑黑",
+      "ext": "flac",
+      "bitrate": 842
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735174036,
+      "size": 28242322,
+      "md5": "56581247f0d38a8d820f1d14729a0116",
+      "name": "天黑黑",
+      "ext": "flac",
+      "bitrate": 834
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 287749,
+      "size": 21029558,
+      "md5": "94a4b5a905728498c6031278070c7678",
+      "name": "天黑黑",
+      "ext": "flac",
+      "bitrate": 701
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2 Her",
+      "id": 37460591,
+      "size": 20969212,
+      "md5": "a01a6c2b51dd2b512eda41ecd3dc60c4",
+      "name": "天黑黑",
+      "ext": "flac",
+      "bitrate": 701
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 286984,
+      "size": 20981932,
+      "md5": "da77a1b6a54dc68fd17a379471cb52f4",
+      "name": "天黑黑",
+      "ext": "flac",
+      "bitrate": 701
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 287029,
+      "size": 63379118,
+      "md5": "878d8d0d69e2a414db5a01eb45f3d5cb",
+      "name": "逃亡",
+      "ext": "flac",
+      "bitrate": 1769
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story, Your Song 经典全纪录 (主打精华版)",
+      "id": 287328,
+      "size": 24344732,
+      "md5": "e4e9d0eb0e83c4c31d1280aac1a6aa00",
+      "name": "太阳底下",
+      "ext": "flac",
+      "bitrate": 935
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287617,
+      "size": 34294030,
+      "md5": "b992b0571f85a6ff7768c77788cb12c3",
+      "name": "逃亡",
+      "ext": "flac",
+      "bitrate": 954
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 286994,
+      "size": 24238409,
+      "md5": "66a5ea3f72926abaa1dc351bc57df045",
+      "name": "太阳底下",
+      "ext": "flac",
+      "bitrate": 935
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2 Her",
+      "id": 32712820,
+      "size": 32631733,
+      "md5": "1d1f8b6467442a31f1aae23a2b132482",
+      "name": "她们的歌",
+      "ext": "flac",
+      "bitrate": 913
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 2735171833,
+      "size": 9434567,
+      "md5": "86b8770656740d84d96f6e5f3d0ec695",
+      "name": "随堂测验",
+      "ext": "flac",
+      "bitrate": 907
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 1360465564,
+      "size": 48967732,
+      "md5": "8f4b9e81a120fccc1f72c293ba0d45ed",
+      "name": "随堂测验",
+      "ext": "flac",
+      "bitrate": 1792
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735170860,
+      "size": 24182546,
+      "md5": "6be4f2abcac3a4672546a5fb4b1b4cdb",
+      "name": "随堂测验",
+      "ext": "flac",
+      "bitrate": 1002
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287641,
+      "size": 26228821,
+      "md5": "fb2ca5c6fb520cc472fbb97aa00020b2",
+      "name": "随堂测验",
+      "ext": "flac",
+      "bitrate": 953
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "守护永恒的爱",
+      "id": 1379481976,
+      "size": 22259175,
+      "md5": "f14bb5557cac1f3e8c047bdcc1cd3240",
+      "name": "守护永恒的爱",
+      "ext": "flac",
+      "bitrate": 971
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 2735170826,
+      "size": 54079052,
+      "md5": "bab715ac4caf4f22d16ce70f3ba57a0b",
+      "name": "是时候 + Hidden Track",
+      "ext": "flac",
+      "bitrate": 761
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 286955,
+      "size": 22436876,
+      "md5": "ea58d474b7a2e1567d7ac9a5b1b1a157",
+      "name": "世说心语",
+      "ext": "flac",
+      "bitrate": 803
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "世界终结前一天",
+      "id": 1951112283,
+      "size": 35016019,
+      "md5": "8357446467965235c50430a1df99056d",
+      "name": "世界终结前一天",
+      "ext": "flac",
+      "bitrate": 909
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 2735173836,
+      "size": 29028522,
+      "md5": "2c807742d93195840f3e4e764c7acea5",
+      "name": "时光小偷",
+      "ext": "flac",
+      "bitrate": 791
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 1360464838,
+      "size": 33118396,
+      "md5": "eb2544a406e1f3110c76b20d4b94b89d",
+      "name": "神奇",
+      "ext": "flac",
+      "bitrate": 1001
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287384,
+      "size": 33158225,
+      "md5": "ceca28a8354301df7856fb17bac340d3",
+      "name": "神奇",
+      "ext": "flac",
+      "bitrate": 1001
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 2049465852,
+      "size": 25328452,
+      "md5": "dcf139c5870709f68a7e0efea2221f83",
+      "name": "尚好的青春",
+      "ext": "flac",
+      "bitrate": 759
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "日落",
+      "id": 2724692005,
+      "size": 54292356,
+      "md5": "76306ba65c45ab699a208caf03ea541b",
+      "name": "日落",
+      "ext": "flac",
+      "bitrate": 1732
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 2735173794,
+      "size": 14203955,
+      "md5": "5ea5d1d20cd2881b0462337507497be2",
+      "name": "任性",
+      "ext": "flac",
+      "bitrate": 603
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 1360464840,
+      "size": 44571371,
+      "md5": "65803be061a02e03204a517d8f0bb597",
+      "name": "任性",
+      "ext": "flac",
+      "bitrate": 1549
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 287010,
+      "size": 21020637,
+      "md5": "80947d741b1070303f1926500a7d9690",
+      "name": "任性",
+      "ext": "flac",
+      "bitrate": 728
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2 Her",
+      "id": 287616,
+      "size": 22080951,
+      "md5": "e7a9e33b70bf07725238e70431388db4",
+      "name": "任性",
+      "ext": "flac",
+      "bitrate": 767
+    },
+    {
+      "artist": "张惠妹",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "2 Her",
+      "id": 419827622,
+      "size": 0,
+      "md5": "c1127848a2796b564382d5f6bc419d30",
+      "name": "人质",
+      "ext": "flac",
+      "bitrate": 846
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "擒光",
+      "id": 1990475088,
+      "size": 0,
+      "md5": "a388c532af638491d954617443a609b7",
+      "name": "擒光",
+      "ext": "flac",
+      "bitrate": 1664
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 2087315915,
+      "size": 0,
+      "md5": "99c6a67857890b7fbcddffaea894c026",
+      "name": "平日快乐",
+      "ext": "flac",
+      "bitrate": 1662
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 2054177044,
+      "size": 0,
+      "md5": "3777470059bff39543ec05112bed2516",
+      "name": "漂浮群岛",
+      "ext": "flac",
+      "bitrate": 1720
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287067,
+      "size": 27255934,
+      "md5": "c3690a0f70ed640523f47c586e7e4302",
+      "name": "飘着",
+      "ext": "flac",
+      "bitrate": 864
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 1360465572,
+      "size": 0,
+      "md5": "4f73588e920ea48c1f40b4f0dea9c0ac",
+      "name": "浓眉毛",
+      "ext": "flac",
+      "bitrate": 875
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287754,
+      "size": 0,
+      "md5": "d68f2d479df9bb4ef55200a8dbce8380",
+      "name": "浓眉毛",
+      "ext": "flac",
+      "bitrate": 859
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 287409,
+      "size": 36055044,
+      "md5": "2169206fca2c19a9ecbe851c0a0d1bbc",
+      "name": "年轻无极限",
+      "ext": "flac",
+      "bitrate": 953
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "匿名万岁",
+      "id": 1890616371,
+      "size": 0,
+      "md5": "a4b74a132ca7dadd0f07d313da01043e",
+      "name": "匿名万岁",
+      "ext": "flac",
+      "bitrate": 971
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 2160958529,
+      "size": 0,
+      "md5": "153579cb4854153885c7f00a0e7650ba",
+      "name": "逆光",
+      "ext": "flac",
+      "bitrate": 872
+    },
+    {
+      "artist": "张惠妹",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "爱的力量 10年情歌最精选",
+      "id": 327128,
+      "size": 27134758,
+      "md5": "23b1966c155c4c3e71a39093e8ef0624",
+      "name": "你好不好",
+      "ext": "flac",
+      "bitrate": 923
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735171600,
+      "size": 36250137,
+      "md5": "3cc35dca24527b18a194ebe854167619",
+      "name": "难得一见",
+      "ext": "flac",
+      "bitrate": 927
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735172628,
+      "size": 33293760,
+      "md5": "74f0c1db675d66b3d3d0d50684baf0ba",
+      "name": "难得一见",
+      "ext": "flac",
+      "bitrate": 979
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 287212,
+      "size": 31080519,
+      "md5": "4800c51400b06840747b1764880bf6a2",
+      "name": "难得一见",
+      "ext": "flac",
+      "bitrate": 974
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Your Song 2006 新歌+精选",
+      "id": 287728,
+      "size": 31021608,
+      "md5": "61470ec8cab40edaa0a2581fc8304cce",
+      "name": "难得一见",
+      "ext": "flac",
+      "bitrate": 974
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 1360465577,
+      "size": 24249064,
+      "md5": "2daab46a116380330869566f4b29a2b0",
+      "name": "明天晴天",
+      "ext": "flac",
+      "bitrate": 826
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287260,
+      "size": 24265398,
+      "md5": "94df26c9ca0bad1fd01cdd7b4dedb78b",
+      "name": "明天晴天",
+      "ext": "flac",
+      "bitrate": 825
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 2079714237,
+      "size": 22750383,
+      "md5": "f317188b5ba98dc3fe81adf602b2d0c4",
+      "name": "明天的记忆",
+      "ext": "flac",
+      "bitrate": 797
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287059,
+      "size": 18940801,
+      "md5": "0d03080406fd2ba02248e3a61aae1a39",
+      "name": "梦游",
+      "ext": "flac",
+      "bitrate": 793
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story, Your Song 经典全纪录 (主打精华版)",
+      "id": 287196,
+      "size": 27158675,
+      "md5": "13cc04f87f161f3ad73246aee48acf2d",
+      "name": "梦想天空",
+      "ext": "flac",
+      "bitrate": 953
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287006,
+      "size": 30016093,
+      "md5": "77b317f6007ed99690ff7b6c5ab5ebe7",
+      "name": "梦不落",
+      "ext": "flac",
+      "bitrate": 1052
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story 2006 新歌+精选",
+      "id": 287257,
+      "size": 30028048,
+      "md5": "0c6f5f944087e40094b924f595e07461",
+      "name": "梦不落",
+      "ext": "flac",
+      "bitrate": 1052
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287369,
+      "size": 28458054,
+      "md5": "614da9e8dc77d6bbde129fc40270d0d4",
+      "name": "没有人的方向",
+      "ext": "flac",
+      "bitrate": 911
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287418,
+      "size": 28489003,
+      "md5": "6d91e6c50d1e941dbbc27f42fa89fe3b",
+      "name": "没有人的方向",
+      "ext": "flac",
+      "bitrate": 903
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287571,
+      "size": 27084051,
+      "md5": "3274c8f2bdf8886c94d4f028c320e17b",
+      "name": "没时间",
+      "ext": "flac",
+      "bitrate": 967
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 287122,
+      "size": 27147818,
+      "md5": "6ee5f49cbb9b733dd8549b0586f3597c",
+      "name": "慢慢来",
+      "ext": "flac",
+      "bitrate": 945
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 287021,
+      "size": 24823788,
+      "md5": "89d265cdbae58cd69f53e97d840aefb0",
+      "name": "绿光",
+      "ext": "flac",
+      "bitrate": 1018
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735162149,
+      "size": 27548530,
+      "md5": "bc96b8af235676a797b7850c5cd33d3e",
+      "name": "绿光",
+      "ext": "flac",
+      "bitrate": 1029
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 287221,
+      "size": 24823773,
+      "md5": "00b2fcb56e824bb4df179f28631cf201",
+      "name": "绿光",
+      "ext": "flac",
+      "bitrate": 1018
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287611,
+      "size": 25089731,
+      "md5": "4dcc8ce2bec3763bb40029e67434579d",
+      "name": "绿光",
+      "ext": "flac",
+      "bitrate": 1041
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287246,
+      "size": 30040485,
+      "md5": "906997fed3273ca5dfb77058d566284d",
+      "name": "流浪地图",
+      "ext": "flac",
+      "bitrate": 972
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287255,
+      "size": 26965778,
+      "md5": "3efe6d632c5d983903b6e1fc92c07b8a",
+      "name": "另一张脸",
+      "ext": "flac",
+      "bitrate": 957
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735169430,
+      "size": 17661771,
+      "md5": "c1501941a6a690b3fead8a0446484013",
+      "name": "零缺点",
+      "ext": "flac",
+      "bitrate": 1026
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735169422,
+      "size": 29169058,
+      "md5": "339434cf32990650d738da13bb7be147",
+      "name": "零缺点",
+      "ext": "flac",
+      "bitrate": 1003
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 287199,
+      "size": 28873590,
+      "md5": "bd6c5d4f128c30e1f6872d4661c326f7",
+      "name": "零缺点",
+      "ext": "flac",
+      "bitrate": 1039
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287595,
+      "size": 25714368,
+      "md5": "88d34bb677ee4ed014ee03fbbb08d90c",
+      "name": "就是这样",
+      "ext": "flac",
+      "bitrate": 945
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287346,
+      "size": 26020714,
+      "md5": "0f39d1248f92fbeb52b165603e4e1d03",
+      "name": "很好",
+      "ext": "flac",
+      "bitrate": 771
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story, Your Song 经典全纪录 (主打精华版)",
+      "id": 287718,
+      "size": 28814592,
+      "md5": "51622d06fbfc39d69893d61a9244dcfe",
+      "name": "零缺点",
+      "ext": "flac",
+      "bitrate": 1039
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 287223,
+      "size": 58405156,
+      "md5": "3e005da80ac5dbce8385d6c58ebed987",
+      "name": "练习",
+      "ext": "flac",
+      "bitrate": 1807
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 287633,
+      "size": 31562596,
+      "md5": "60b346a6d37fbaf5b0055939c48f7ef6",
+      "name": "练习",
+      "ext": "flac",
+      "bitrate": 978
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 287726,
+      "size": 21881670,
+      "md5": "b751d470033167f17513ef5dbd57c34a",
+      "name": "累赘",
+      "ext": "flac",
+      "bitrate": 893
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 1360465574,
+      "size": 29295738,
+      "md5": "ad8afa25779272b1d85c233fa291b4dc",
+      "name": "了解",
+      "ext": "flac",
+      "bitrate": 811
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287412,
+      "size": 29765614,
+      "md5": "eeb273113e928af1e0cd0d67db5b10fc",
+      "name": "了解",
+      "ext": "flac",
+      "bitrate": 819
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287322,
+      "size": 32192921,
+      "md5": "7d1cba46c069dd35658a3010e6208373",
+      "name": "懒得去管",
+      "ext": "flac",
+      "bitrate": 1044
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 286968,
+      "size": 26429156,
+      "md5": "7be649ad07f2b5090f9ee789910522c0",
+      "name": "快疯了",
+      "ext": "flac",
+      "bitrate": 972
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 286963,
+      "size": 25377597,
+      "md5": "9f82cafae771e5b4303e4e7aeae5b497",
+      "name": "空口言",
+      "ext": "flac",
+      "bitrate": 982
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 1890666443,
+      "size": 22904723,
+      "md5": "10acd8cdfc97f22bc15a7ea50aa93238",
+      "name": "克卜勒",
+      "ext": "flac",
+      "bitrate": 714
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 1980220487,
+      "size": 27060486,
+      "md5": "adb35c7b9cf3d5ba006c8ee40a8c5a84",
+      "name": "克卜勒",
+      "ext": "flac",
+      "bitrate": 863
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 2060248682,
+      "size": 30558980,
+      "md5": "7de11fc90eeaf12cc9e82011e173bd59",
+      "name": "渴",
+      "ext": "flac",
+      "bitrate": 861
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735172305,
+      "size": 31816779,
+      "md5": "d15ed9be7dd797d8db8428e104472266",
+      "name": "开始懂了",
+      "ext": "flac",
+      "bitrate": 1451
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735170307,
+      "size": 28464871,
+      "md5": "376ff889642d37e1f78999089c20132e",
+      "name": "开始懂了",
+      "ext": "flac",
+      "bitrate": 874
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 5246676,
+      "size": 28795417,
+      "md5": "cf68afe721883197619f6089a211630b",
+      "name": "开始懂了",
+      "ext": "flac",
+      "bitrate": 842
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Your Song 2006 新歌+精选",
+      "id": 287719,
+      "size": 28736374,
+      "md5": "76997d7cd7f898b6aba2f324b616e920",
+      "name": "开始懂了",
+      "ext": "flac",
+      "bitrate": 842
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 287403,
+      "size": 23871709,
+      "md5": "38f05bab9af8d7a8e7b3a89fbe896803",
+      "name": "接下来",
+      "ext": "flac",
+      "bitrate": 880
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "简爱",
+      "id": 2735169261,
+      "size": 34408463,
+      "md5": "835e35e6238b6300f870a64f16a5af86",
+      "name": "简爱",
+      "ext": "flac",
+      "bitrate": 816
+    },
+    {
+      "artist": "张惠妹",
+      "artists": [
+        "张惠妹"
+      ],
+      "album": "2her",
+      "id": 1360512113,
+      "size": 30402274,
+      "md5": "f063d3320ecade4548645dd28a17f394",
+      "name": "记得",
+      "ext": "flac",
+      "bitrate": 834
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 2096338049,
+      "size": 40421485,
+      "md5": "1f4007c5fc523b4c146e6da72aa17e4e",
+      "name": "极美",
+      "ext": "flac",
+      "bitrate": 1519
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 1360464823,
+      "size": 28746994,
+      "md5": "8ccc5843e64e928429b918cddf4b40da",
+      "name": "坏天气",
+      "ext": "flac",
+      "bitrate": 843
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287717,
+      "size": 28509592,
+      "md5": "86d8970ec18a13f1e918c5c7484282cc",
+      "name": "坏天气",
+      "ext": "flac",
+      "bitrate": 830
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735168205,
+      "size": 18450136,
+      "md5": "9986bd9b53d6ddb96c80e42c1e233848",
+      "name": "很好",
+      "ext": "flac",
+      "bitrate": 845
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735172175,
+      "size": 21872850,
+      "md5": "999039c948010490118c221333787468",
+      "name": "很好",
+      "ext": "flac",
+      "bitrate": 776
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287766,
+      "size": 25920334,
+      "md5": "565711ba41bfa6e41b9f737f52524f58",
+      "name": "很好",
+      "ext": "flac",
+      "bitrate": 771
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 287227,
+      "size": 27737734,
+      "md5": "b65e2670eb9383da832518b0409c2144",
+      "name": "和平",
+      "ext": "flac",
+      "bitrate": 887
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 287757,
+      "size": 27616318,
+      "md5": "9df893c27df5ae6112301b09b2bdf76c",
+      "name": "和平",
+      "ext": "flac",
+      "bitrate": 887
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735161794,
+      "size": 25834269,
+      "md5": "ef4979bf4c3f87edae968954f831ac75",
+      "name": "害怕",
+      "ext": "flac",
+      "bitrate": 807
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 287126,
+      "size": 24391641,
+      "md5": "7563848b18153f0f50c015f0b3451564",
+      "name": "害怕",
+      "ext": "flac",
+      "bitrate": 795
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2 Her",
+      "id": 287730,
+      "size": 24441217,
+      "md5": "34ee9fe6326d5bf1dc7ad82bfb97d093",
+      "name": "害怕",
+      "ext": "flac",
+      "bitrate": 795
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287075,
+      "size": 24066530,
+      "md5": "45f4820f85d695094cfeb29536774e74",
+      "name": "关于",
+      "ext": "flac",
+      "bitrate": 803
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287061,
+      "size": 33514753,
+      "md5": "bea303bb9c42270310d109ab0ede3de5",
+      "name": "咕叽咕叽",
+      "ext": "flac",
+      "bitrate": 976
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287569,
+      "size": 22904550,
+      "md5": "8449b76512ec714cce0c67fe9f25c7da",
+      "name": "橄榄树",
+      "ext": "flac",
+      "bitrate": 875
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287366,
+      "size": 22911848,
+      "md5": "f79adbf45b13307bedfde0b0e4cd8df6",
+      "name": "橄榄树",
+      "ext": "flac",
+      "bitrate": 875
+    },
+    {
+      "artist": "林俊杰",
+      "artists": [
+        "林俊杰"
+      ],
+      "album": "感动每一刻",
+      "id": 108362,
+      "size": 35054723,
+      "md5": "01e19c31fee95bac7b23ff6fb04beb6f",
+      "name": "感动每一刻",
+      "ext": "flac",
+      "bitrate": 1011
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 2735158014,
+      "size": 8786311,
+      "md5": "d6eedec1c22fc2ce9a9ed868b980c539",
+      "name": "风筝",
+      "ext": "flac",
+      "bitrate": 809
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 1360464820,
+      "size": 55059219,
+      "md5": "fd81afcd02445b33b367c36ae9117c9a",
+      "name": "风筝",
+      "ext": "flac",
+      "bitrate": 1589
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735156009,
+      "size": 20146900,
+      "md5": "75d0ffb69e45a685b14697166e80b7d0",
+      "name": "风筝",
+      "ext": "flac",
+      "bitrate": 960
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 286997,
+      "size": 26496804,
+      "md5": "c93e48659a5a0f905741952e7f52a991",
+      "name": "风筝",
+      "ext": "flac",
+      "bitrate": 763
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287614,
+      "size": 26890079,
+      "md5": "ae1213ecbba00cf6b2f6d6c1f1f81488",
+      "name": "风筝",
+      "ext": "flac",
+      "bitrate": 771
+    },
+    {
+      "artist": "王乾越",
+      "artists": [
+        "王乾越"
+      ],
+      "album": "要久久爱 原声带",
+      "id": 2735161664,
+      "size": 27063589,
+      "md5": "45ef33340a4d40750672776746e18868",
+      "name": "风再起",
+      "ext": "flac",
+      "bitrate": 882
+    },
+    {
+      "artist": "王乾越",
+      "artists": [
+        "王乾越"
+      ],
+      "album": "风再起",
+      "id": 2735157955,
+      "size": 24458531,
+      "md5": "fa93ea6a42fb9dc59b1de58b775185cf",
+      "name": "风再起",
+      "ext": "flac",
+      "bitrate": 783
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 2094368518,
+      "size": 50730808,
+      "md5": "4e859555a754cc00bdd3b12655cdccf1",
+      "name": "风衣",
+      "ext": "flac",
+      "bitrate": 1663
+    },
+    {
+      "artist": "杨紫",
+      "artists": [
+        "杨紫"
+      ],
+      "album": "要久久爱原声带",
+      "id": 2105435549,
+      "size": 51316117,
+      "md5": "e5cd7c74f901965bb2d6499365d15830",
+      "name": "飞到小时候",
+      "ext": "flac",
+      "bitrate": 1645
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 287289,
+      "size": 27569748,
+      "md5": "17279b348f99dc2373014ecfad5c8b26",
+      "name": "反过来走走",
+      "ext": "flac",
+      "bitrate": 932
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287520,
+      "size": 31599290,
+      "md5": "8c09201c6333ba2582e12ae32afb351b",
+      "name": "懂事",
+      "ext": "flac",
+      "bitrate": 954
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287012,
+      "size": 34334870,
+      "md5": "d19955d991ca3728bcb063c173fd2116",
+      "name": "第一天",
+      "ext": "flac",
+      "bitrate": 1074
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287248,
+      "size": 34347459,
+      "md5": "3f4c3a1dd2bb321341f67aef721bc04b",
+      "name": "第一天",
+      "ext": "flac",
+      "bitrate": 1065
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story, Your Song 经典全纪录 (主打精华版)",
+      "id": 1360464837,
+      "size": 32679216,
+      "md5": "5a79fa173fcd48086792aafa35580cb8",
+      "name": "第六感",
+      "ext": "flac",
+      "bitrate": 1026
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 1857783823,
+      "size": 28309722,
+      "md5": "a3479d2d99103a813b20cc9357cb921d",
+      "name": "当冬夜渐暖",
+      "ext": "flac",
+      "bitrate": 783
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 2096338054,
+      "size": 21424335,
+      "md5": "9218c212f806a79bf3e42e9a5834b20b",
+      "name": "错觉",
+      "ext": "flac",
+      "bitrate": 667
+    },
+    {
+      "artist": "王笠人",
+      "artists": [
+        "王笠人"
+      ],
+      "album": "要久久爱 原声带",
+      "id": 2735151929,
+      "size": 20061242,
+      "md5": "0ade8727716da8e8d6a245cf4ecce533",
+      "name": "从此害怕雨天 MMM 王笠人 06",
+      "ext": "flac",
+      "bitrate": 714
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 516655204,
+      "size": 27332774,
+      "md5": "bebcc74cb9aa6d15628c77d32bd1501f",
+      "name": "充氧期",
+      "ext": "flac",
+      "bitrate": 960
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿No. 13作品：跳舞的梵谷",
+      "id": 516655203,
+      "size": 25132205,
+      "md5": "4ba322baa6ea908f822e4cb2f2e984bc",
+      "name": "超人类",
+      "ext": "flac",
+      "bitrate": 887
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735161535,
+      "size": 22115584,
+      "md5": "251fe46e31da28d5f2ef9d449c4e5cbd",
+      "name": "超快感",
+      "ext": "flac",
+      "bitrate": 981
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735153854,
+      "size": 30287910,
+      "md5": "d54fa0630f64aef3803b23e17d2e087e",
+      "name": "超快感",
+      "ext": "flac",
+      "bitrate": 1011
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿经典全纪录 主打精华版",
+      "id": 287340,
+      "size": 28029008,
+      "md5": "b05822b1f839b11c8b4f931aa3462be8",
+      "name": "超快感",
+      "ext": "flac",
+      "bitrate": 1012
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 5239877,
+      "size": 28325305,
+      "md5": "8347d862aba13e5eaf729811f044e199",
+      "name": "超快感",
+      "ext": "flac",
+      "bitrate": 1016
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Your Song 2006 新歌+精选",
+      "id": 287745,
+      "size": 27985165,
+      "md5": "6ce72c3187000f4b429c7f0482798d1a",
+      "name": "超快感",
+      "ext": "flac",
+      "bitrate": 1014
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 287027,
+      "size": 28106512,
+      "md5": "b498f2c98ed1a495f06dfe304015acd5",
+      "name": "超快感",
+      "ext": "flac",
+      "bitrate": 1014
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "彩虹金刚",
+      "id": 426026314,
+      "size": 26794887,
+      "md5": "d36fa457a62c7f2cff8c71883dbedddc",
+      "name": "彩虹金刚",
+      "ext": "flac",
+      "bitrate": 877
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287536,
+      "size": 26265141,
+      "md5": "508533eaa82900df5c5017bd07b85a4a",
+      "name": "不同",
+      "ext": "flac",
+      "bitrate": 944
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 287620,
+      "size": 48869207,
+      "md5": "3d5a49ad6667bb6e4bb40579d4a4303c",
+      "name": "不是真的爱我",
+      "ext": "flac",
+      "bitrate": 1617
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287325,
+      "size": 27664924,
+      "md5": "9734c68d0a5a8eb317c77fe45e67c3df",
+      "name": "不能和你一起",
+      "ext": "flac",
+      "bitrate": 777
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "克卜勒",
+      "id": 2072334518,
+      "size": 29273405,
+      "md5": "cd686bfd2b5a7707cb1104e02d79d6f0",
+      "name": "比较幸福",
+      "ext": "flac",
+      "bitrate": 843
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story, Your Song 经典全纪录 (主打精华版)",
+      "id": 287271,
+      "size": 28615319,
+      "md5": "a16bb25315dc48255f47c0aa55f7a1d2",
+      "name": "奔",
+      "ext": "flac",
+      "bitrate": 1021
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 286990,
+      "size": 28581465,
+      "md5": "b003f4960d5ca8037f050aad46b26fcd",
+      "name": "奔",
+      "ext": "flac",
+      "bitrate": 1021
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "半句再见",
+      "id": 548556869,
+      "size": 23020552,
+      "md5": "945d58f7536f9358ec37709dc6c898c4",
+      "name": "半句再见",
+      "ext": "flac",
+      "bitrate": 736
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287065,
+      "size": 18496054,
+      "md5": "3d173a13728888c9c65d43dc23bbfc16",
+      "name": "安宁",
+      "ext": "flac",
+      "bitrate": 734
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝",
+      "id": 2735150778,
+      "size": 7888516,
+      "md5": "fced31a4d6454c36e347eb8ea1780da0",
+      "name": "爱情字典",
+      "ext": "flac",
+      "bitrate": 858
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "风筝 (Remastered)",
+      "id": 287023,
+      "size": 49068155,
+      "md5": "429c5b5eb52962d7ab906f3a378e5ef2",
+      "name": "爱情字典",
+      "ext": "flac",
+      "bitrate": 1698
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735156690,
+      "size": 19789866,
+      "md5": "90425150b0f28985f36538e94b52ac23",
+      "name": "爱情字典",
+      "ext": "flac",
+      "bitrate": 916
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287637,
+      "size": 25678739,
+      "md5": "a42755ef4a116ccbb4e12abfc5eb9921",
+      "name": "爱情字典",
+      "ext": "flac",
+      "bitrate": 889
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735159540,
+      "size": 30544464,
+      "md5": "46ba40dbde93b50ca811a40f33d274c7",
+      "name": "爱情证书",
+      "ext": "flac",
+      "bitrate": 927
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "2000台北万人演唱会",
+      "id": 2735150738,
+      "size": 26719311,
+      "md5": "12f633045600c6c0bdbbde74d83b79c1",
+      "name": "爱情证书",
+      "ext": "flac",
+      "bitrate": 1019
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 287163,
+      "size": 28137744,
+      "md5": "a8b5cdd930e2eb1deb6d591366bb0668",
+      "name": "爱情证书",
+      "ext": "flac",
+      "bitrate": 868
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 287747,
+      "size": 28178624,
+      "md5": "300c55a010ecd25ec64f6eee4cd6499f",
+      "name": "爱情证书",
+      "ext": "flac",
+      "bitrate": 878
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 544151107,
+      "size": 28299690,
+      "md5": "3a50bf6d0f8e6bb0730b498c48a7cd8c",
+      "name": "爱情证书",
+      "ext": "flac",
+      "bitrate": 878
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 287069,
+      "size": 28873931,
+      "md5": "191731d7ba25cdcd68073e4d0e3fa972",
+      "name": "爱情的花样",
+      "ext": "flac",
+      "bitrate": 1025
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 287104,
+      "size": 27219233,
+      "md5": "f610c3c263b240368b236456da572198",
+      "name": "爱从零开始",
+      "ext": "flac",
+      "bitrate": 827
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287532,
+      "size": 28107913,
+      "md5": "36c05d62317cdf5e871ca117091ed816",
+      "name": "爱从零开始",
+      "ext": "flac",
+      "bitrate": 848
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "离开",
+      "id": 287549,
+      "size": 50957626,
+      "md5": "48ed13f8ed1e80470f667142ef66bced",
+      "name": "We Will Get There",
+      "ext": "flac",
+      "bitrate": 1627
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735151633,
+      "size": 18636459,
+      "md5": "96ae4e5f5267af312023bdb002772dc9",
+      "name": "Venus",
+      "ext": "flac",
+      "bitrate": 1016
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Your Song 2006 新歌+精选",
+      "id": 5241551,
+      "size": 26052719,
+      "md5": "e9906e07493a679c715e42d87a3b489f",
+      "name": "Venus",
+      "ext": "flac",
+      "bitrate": 983
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287599,
+      "size": 24672791,
+      "md5": "586efb57192b22568e9d46b1e7181498",
+      "name": "Up2U",
+      "ext": "flac",
+      "bitrate": 975
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 2735155576,
+      "size": 31610346,
+      "md5": "966beb95b53db95272330d3dcc9195c7",
+      "name": "Tonight,I feel close to you",
+      "ext": "flac",
+      "bitrate": 1022
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287318,
+      "size": 26496326,
+      "md5": "630bade4e7370630840dd5aac22a0e09",
+      "name": "The Moment",
+      "ext": "flac",
+      "bitrate": 825
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 1360464830,
+      "size": 26530168,
+      "md5": "59e5fe4710d96a1ac7b6edcb9afc6ffb",
+      "name": "The moment",
+      "ext": "flac",
+      "bitrate": 825
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 2735153540,
+      "size": 27050478,
+      "md5": "989decbaa636d13ad2776672447b27fa",
+      "name": "That I Would Be Good",
+      "ext": "flac",
+      "bitrate": 824
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "彩虹金刚 EP",
+      "id": 426026313,
+      "size": 33568574,
+      "md5": "8a2f495941ed63891bed8242419bf558",
+      "name": "Sweet Child O' Mine",
+      "ext": "flac",
+      "bitrate": 913
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 1360464816,
+      "size": 31741671,
+      "md5": "c9839c7b6ce2bac566292c5647e9fbd2",
+      "name": "Stefanie",
+      "ext": "flac",
+      "bitrate": 948
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 287290,
+      "size": 31644277,
+      "md5": "a9f30e5531cf4246e8b3072805964b3e",
+      "name": "Stefanie",
+      "ext": "flac",
+      "bitrate": 948
+    },
+    {
+      "artist": "林俊杰",
+      "artists": [
+        "林俊杰"
+      ],
+      "album": "Stay With You (英文版)",
+      "id": 2735152551,
+      "size": 39666324,
+      "md5": "a52d16bce132541567ccf2d9e3995e18",
+      "name": "Stay With You",
+      "ext": "flac",
+      "bitrate": 1515
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735151541,
+      "size": 23960468,
+      "md5": "5a1c805bebd7a1a8faaf218711306f33",
+      "name": "Sparking Diamonds",
+      "ext": "flac",
+      "bitrate": 1007
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287573,
+      "size": 30335810,
+      "md5": "0d3580fca8a68d7613a43f90486b3180",
+      "name": "Sometimes Love Just Ain't Enough",
+      "ext": "flac",
+      "bitrate": 881
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735156525,
+      "size": 22506486,
+      "md5": "bc8fd5f9e8337b11417069bb23a27cba",
+      "name": "Someone",
+      "ext": "flac",
+      "bitrate": 945
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287587,
+      "size": 23122773,
+      "md5": "026fb73aeedb6b05d20f5eb83e91d63f",
+      "name": "Someone",
+      "ext": "flac",
+      "bitrate": 891
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287349,
+      "size": 23131265,
+      "md5": "d70ac65d91e1477ecce970624f810c6a",
+      "name": "Someone",
+      "ext": "flac",
+      "bitrate": 891
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287443,
+      "size": 28146799,
+      "md5": "60b0f4c16e6e9e9bfaa0fe50a0dcac8d",
+      "name": "Silent All These Years",
+      "ext": "flac",
+      "bitrate": 876
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287567,
+      "size": 25308365,
+      "md5": "cb9fa1b391c75f125e2e0a1100190008",
+      "name": "Silent All These Years",
+      "ext": "flac",
+      "bitrate": 792
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 287008,
+      "size": 25724462,
+      "md5": "2338d8aa44114eb97c1680a2eb6780bb",
+      "name": "Silent All These Years",
+      "ext": "flac",
+      "bitrate": 798
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "华语励志K歌",
+      "id": 2111912429,
+      "size": 26762166,
+      "md5": "36c0a4ddbc4a978a58a79b9a5014fc66",
+      "name": "Radio",
+      "ext": "flac",
+      "bitrate": 967
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story，Your Song 经典全记录",
+      "id": 287152,
+      "size": 55912988,
+      "md5": "18ef20c71928b24d1fed78bbefbe3608",
+      "name": "Our Memory",
+      "ext": "flac",
+      "bitrate": 945
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735146096,
+      "size": 27589264,
+      "md5": "e6da45e0524719931dcefbad3adcb988",
+      "name": "Opening",
+      "ext": "flac",
+      "bitrate": 1040
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "The Moment",
+      "id": 287334,
+      "size": 20641742,
+      "md5": "0af57011cc2c47beb2d30d43483b14f4",
+      "name": "One United People",
+      "ext": "flac",
+      "bitrate": 950
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 2735153381,
+      "size": 5288468,
+      "md5": "696c889f73cbf61dfbd29022ccbabf15",
+      "name": "On The Road",
+      "ext": "flac",
+      "bitrate": 562
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "我要的幸福",
+      "id": 2735146073,
+      "size": 7628890,
+      "md5": "7c1fd7d32d2023bed7da06e779167f37",
+      "name": "On The Road",
+      "ext": "flac",
+      "bitrate": 694
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "未完成",
+      "id": 2735150468,
+      "size": 33018738,
+      "md5": "d3a0d133097e500e373a9c8d8db4896a",
+      "name": "My Story,Your Song",
+      "ext": "flac",
+      "bitrate": 950
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Stefanie",
+      "id": 287291,
+      "size": 28364323,
+      "md5": "8c8efe2098c2745f9981035ccb285094",
+      "name": "Let's Vino",
+      "ext": "flac",
+      "bitrate": 1008
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735157338,
+      "size": 19348098,
+      "md5": "e0a9240a1b0594c2a425b6f69f8f9f22",
+      "name": "Leave me alone",
+      "ext": "flac",
+      "bitrate": 999
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿 同名专辑",
+      "id": 287769,
+      "size": 26710809,
+      "md5": "0870d3a49cdeeb2e7c5f69e90fcb0d7b",
+      "name": "Leave Me Alone",
+      "ext": "flac",
+      "bitrate": 894
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Leave",
+      "id": 1360465575,
+      "size": 28528421,
+      "md5": "41b9f461d56607ad7f759d9ca8d39eb9",
+      "name": "Leave",
+      "ext": "flac",
+      "bitrate": 870
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287546,
+      "size": 29293907,
+      "md5": "0438cd9c880cff909c2615b81aab81ba",
+      "name": "Leave",
+      "ext": "flac",
+      "bitrate": 893
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 2735153330,
+      "size": 5344092,
+      "md5": "8c50ba8454a1e27e4ca724367823f393",
+      "name": "In The Beginning",
+      "ext": "flac",
+      "bitrate": 678
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "完美的一天",
+      "id": 287094,
+      "size": 31402099,
+      "md5": "75bddb2870e206982b824848be6dae23",
+      "name": "Honey Honey",
+      "ext": "flac",
+      "bitrate": 943
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "My Story,Your Song 经典全记录",
+      "id": 287251,
+      "size": 31414719,
+      "md5": "ba83536fea9c4bd8ad99f0255f02658b",
+      "name": "Honey Honey",
+      "ext": "flac",
+      "bitrate": 936
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735150405,
+      "size": 31676922,
+      "md5": "70376890818ffe73a7028787eda5f2f8",
+      "name": "Hey Jude",
+      "ext": "flac",
+      "bitrate": 945
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "Start 自选集",
+      "id": 5241526,
+      "size": 30877523,
+      "md5": "69b2b073b23e28657d7a7d9864586639",
+      "name": "Hey Jude",
+      "ext": "flac",
+      "bitrate": 891
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "孙燕姿同名专辑",
+      "id": 2735145978,
+      "size": 34667765,
+      "md5": "d22c2cb3bf4a411c97badcec874e26a2",
+      "name": "E-Lover",
+      "ext": "flac",
+      "bitrate": 913
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "START 世界巡回演唱会 CD",
+      "id": 2735152336,
+      "size": 28218354,
+      "md5": "1d8c1d9c0a7714df042f2cefd444b9e8",
+      "name": "Dream a little dream of me",
+      "ext": "flac",
+      "bitrate": 887
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "逆光",
+      "id": 2735156275,
+      "size": 3976921,
+      "md5": "f68cb06f94ffb8febd165d623463db7c",
+      "name": "Afterward",
+      "ext": "flac",
+      "bitrate": 527
+    },
+    {
+      "artist": "孙燕姿",
+      "artists": [
+        "孙燕姿"
+      ],
+      "album": "是时候",
+      "id": 2089513550,
+      "size": 29758544,
+      "md5": "b9b34c9841367ac3868b0c9baeedd24b",
+      "name": "180度",
+      "ext": "flac",
+      "bitrate": 780
+    },
+    {
+      "artist": "吴青峰",
+      "artists": [
+        "吴青峰"
+      ],
+      "album": "青峰的全创作单曲（......醉鬼阿Q）（feat.孙燕姿）（DJ RayRay Remix）",
+      "id": 2735155275,
+      "size": 31628248,
+      "md5": "ea9d632f93cb5badeea5a288b0b6f4d5",
+      "name": "青峰的全创作单曲（......醉鬼阿Q）（feat.孙燕姿）",
+      "ext": "flac",
+      "bitrate": 1696
+    },
+    {
+      "artist": "吴青峰",
+      "artists": [
+        "吴青峰"
+      ],
+      "album": "（......醉鬼阿Q）（feat.孙燕姿）",
+      "id": 2735151293,
+      "size": 45655252,
+      "md5": "3bfb2ef610c7c8f186aba5786c081163",
+      "name": "（......醉鬼阿Q）（feat.孙燕姿）",
+      "ext": "flac",
+      "bitrate": 1678
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    paths:
+      - '**/*.json'
+
+jobs:
+  purge-jsdelivr:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v39
+        with:
+          files: '**/*.json'
+
+      - name: Purge jsDelivr cache
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            PURGE_URL="https://purge.jsdelivr.net/gh/${{ github.repository }}@${{ github.sha }}/${file}"
+            echo "Purging cache for: $PURGE_URL"
+            curl $PURGE_URL
+            sleep 1
+          done

@@ -1,0 +1,32 @@
+{
+  "name": "music-json-tools",
+  "version": "1.0.0",
+  "description": "音乐JSON文件对比和合并工具集",
+  "main": "cli.js",
+  "scripts": {
+    "compare": "node cli.js compare",
+    "merge": "node cli.js merge",
+    "help": "node cli.js help"
+  },
+  "bin": {
+    "music-tools": "./cli.js"
+  },
+  "keywords": [
+    "music",
+    "json",
+    "compare",
+    "merge",
+    "diff",
+    "tools"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
+

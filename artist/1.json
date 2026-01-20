@@ -1,0 +1,92 @@
+{
+  "data": [
+    {
+      "artist": "叶庆龙",
+      "artists": ["叶庆龙"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": 4875076,
+      "size": 24648308,
+      "md5": "3c617d5b4678075e73771cadbd688a2c",
+      "name": "爱情海",
+      "ext": "mp3",
+      "bitrate": 847
+    },
+    {
+      "artist": "王俞匀",
+      "artists": ["王俞匀"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": 4875081,
+      "size": 24306643,
+      "md5": "30ee9783cd667fbb31fd3a3e9a819e57",
+      "name": "全世界的人都知道",
+      "ext": "mp3",
+      "bitrate": 935
+    },
+    {
+      "artist": "王蓝茵",
+      "artists": ["王蓝茵"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": 4875084,
+      "size": 26808806,
+      "md5": "d2733b2b075e4cb6e4aea1e155e8d6ca",
+      "name": "恶作剧",
+      "ext": "mp3",
+      "bitrate": 946
+    },
+    {
+      "artist": "恶作剧之吻",
+      "artists": ["恶作剧之吻"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": 4875073,
+      "size": 13318142,
+      "md5": "5d8a49e5fa1e7a7259a665a9a6aa2dce",
+      "name": "Dream Waltz",
+      "ext": "mp3",
+      "bitrate": 653
+    },
+    {
+      "artist": "何书宇",
+      "artists": ["何书宇"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": 4875083,
+      "size": 25298930,
+      "md5": "1c8dbc51b95ab24c5e86daf340a3a349",
+      "name": "后悔",
+      "ext": "mp3",
+      "bitrate": 903
+    },
+    {
+      "artist": "方雅贤",
+      "artists": ["方雅贤"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": 4875075,
+      "size": 20661062,
+      "md5": "8471e14604f790850f3574966c344681",
+      "name": "遇到",
+      "ext": "mp3",
+      "bitrate": 909
+    },
+    {
+      "artist": "方雅贤",
+      "artists": ["方雅贤"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": 4875077,
+      "size": 26597237,
+      "md5": "0413e4658b96fe1e239ea8c8c2eff013",
+      "name": "听见",
+      "ext": "mp3",
+      "bitrate": 871
+    },
+    {
+      "artist": "Lara梁心颐",
+      "artists": ["Lara梁心颐"],
+      "album": "恶作剧之吻 电视剧原声带",
+      "id": 4875079,
+      "size": 24337606,
+      "md5": "55fc31ab514dd7851eaaaf7e65f67c6d",
+      "name": "靠近一点点",
+      "ext": "mp3",
+      "bitrate": 922
+    }
+  ]
+}
